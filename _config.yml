@@ -1,4 +1,7 @@
-name: 113 technologies - M.A. Baytaş
+name: M.A. Baytaş
 markdown: redcarpet
 pygments: true
 permalink: pretty
+
+source: src
+timezone: Europe/Istanbul

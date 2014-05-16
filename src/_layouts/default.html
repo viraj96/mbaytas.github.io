@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+{% capture root %}{% if page.root %}{{ page.root }}{% else %}{{ post.root }}{% endif %}{% endcapture %}
 <html>
   <head>
     <meta charset="utf-8">
@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="http:////netdna.bootstrapcdn.com/bootswatch/3.1.1/cosmo/bootstrap.min.css">
     <link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700&subset=latin,latin-ext'>
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="{{ root }}/css/style.css">
   </head>
 
   <body>
@@ -30,45 +30,17 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav" id="navlist">
-            <li><a href="/">home</a></li>
-            <li><a href="/research/">research</a></li>
-            <li><a href="/yoga/">yoga</a></li>
-            <li><a href="/cv/">cv</a></li>
+            <li><a href="{{ root }}/">home</a></li>
+            <li><a href="{{ root }}/research/">research</a></li>
+            <li><a href="{{ root }}/yoga/">yoga</a></li>
+            <li><a href="{{ root }}/cv/">cv</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
 
 
-    <div class="container">
-
-  <div class="row">
-    <div class="col-md-12">
-      <div class="page-header">
-        <p class="text-center">
-        <img src="img/avatar.jpg" style="height:13em;">
-        </p>
-        <h1 class="text-center">Mehmet Aydın Baytaş</h1>
-      </div><!--/.page-header-->
-    </div>
-  </div><!--/ .row -->
-
-  <div class="row">
-    <div class="col-md-12 text-center">
-      <a class="btn btn-default btn-large" href="http://bohemianengineer.com"><i class="fa fa-fw fa-lg fa-tumblr"></i></a>
-      <a class="btn btn-default btn-large" href="http://www.facebook.com/m.a.baytas"><i class="fa fa-fw fa-lg fa-facebook"></i></a>
-      <a class="btn btn-default btn-large" href="http://www.linkedin.com/in/mbaytas"><i class="fa fa-fw fa-lg fa-linkedin"></i></a>
-      <a class="btn btn-default btn-large" href="http://www.github.com/mbaytas"><i class="fa fa-fw fa-lg fa-github"></i></a>
-      <a class="btn btn-default btn-large" href="http://stackoverflow.com/users/1474228/baytas"><i class="fa fa-fw fa-lg fa-stack-overflow"></i></a>
-      <a class="btn btn-default btn-large" href="http://www.youtube.com/user/mbaytas"><i class="fa fa-fw fa-lg fa-youtube-play"></i></a>
-      <a class="btn btn-default btn-large" href="http://soundcloud.com/mrmina"><i class="fa fa-fw fa-lg fa-music"></i></a>
-      <a class="btn btn-default btn-large" href="http://designlab.ku.edu.tr"><i class="fa fa-fw fa-lg fa-flask"></i></a>
-      <hr>
-    </div>
-  </div><!--/.row-->
-
-</div><!--/.container-->
-
+    {{ content }}
 
 
     <div id="footer">
@@ -83,7 +55,7 @@
 
     <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-    <script src="/js/navhighlight.js"></script>
+    <script src="{{ root }}/js/navhighlight.js"></script>
   </body>
 
 </html>
