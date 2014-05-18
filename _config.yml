@@ -1,7 +1,4 @@
 name: M.A. Baytaş
 markdown: redcarpet
-pygments: true
 permalink: pretty
-
-source: src
 timezone: Europe/Istanbul
