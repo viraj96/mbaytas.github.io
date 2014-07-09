@@ -24,3 +24,8 @@ body {
   background-image: url(../img/shattered-island.gif);
   font-weight: lighter;
 }
+
+.account-links a.btn {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+}
