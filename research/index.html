@@ -132,7 +132,6 @@ address = {Aachen, DE},
             <p>
               <a class="btn btn-primary btn-xs" target="_blank" href="http://displayworkshop.media.mit.edu/ITS2012/papers.html"><i class="fa fa-book"></i></a>
               <a class="btn btn-primary btn-xs" target="_blank" href="http://displayworkshop.media.mit.edu/ITS2012/downloads/paper-Ozcan.pdf"><i class="fa fa-file-pdf-o"></i></a>
-              <button class="btn btn-primary btn-xs" href="#">BibTeX</button>
             </p>
           </div>
         </li>
@@ -159,9 +158,10 @@ address = {Aachen, DE},
 
 <script>
   $(".btn-bibtex").click(function(event){
-    $("#pre-bibtex-"+$(this).attr('data-bibtex')).slideDown("slow");
-    $(":not(.pre-bibtex)").click(function(event){
-      $(".pre-bibtex").slideUp("slow");
+    $("#pre-bibtex-"+$(this).attr('data-bibtex')).slideDown("slow", function(){
+      $(":not(.pre-bibtex)").click(function(event){
+        $(".pre-bibtex").slideUp("slow");
+      });
     });
   });
 </script>
