@@ -157,12 +157,14 @@ address = {Aachen, DE},
 </style>
 
 <script>
+  var closeBibtex = function() {
+    $(".pre-bibtex").slideUp("slow");
+    $(":not(.pre-bibtex)").unbind( "click", closeBibtex);
+  };
   $(".btn-bibtex").click(function(event){
     var bibtexId = $(this).attr('data-bibtex');
     $("#pre-bibtex-"+bibtexId).slideDown("slow", function(){
-      $(":not(#pre-bibtex-"+bibtexId+")").click(function(event){
-        $("#pre-bibtex-"+bibtexId).slideUp("slow");
-      });
+      $(":not(.pre-bibtex)").bind("click", closeBibtex);
     });
   });
 </script>
