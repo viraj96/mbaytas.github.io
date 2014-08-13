@@ -104,7 +104,7 @@ title: research
               <a class="btn btn-primary btn-xs" target="_blank" href="http://ceur-ws.org/Vol-1190/paper2.pdf"><i class="fa fa-file-pdf-o"></i></a>
               <button class="btn btn-primary btn-xs btn-bibtex" data-bibtex="Baytas-2014-EGMI">BibTeX</button>
             </p>
-            <pre class="pre-bibtex" id="pre-bibtex-Baytas-2014-EGMI">@inproceedings{Baytas:2014:EGMI,
+            <pre id="pre-bibtex-Baytas-2014-EGMI">@inproceedings{Baytas:2014:EGMI,
 author = {Baytaş, Mehmet Aydın and Yemez, Yücel and Özcan, Oğuzhan},
 year = {2014},
 title = {User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation},
@@ -158,9 +158,10 @@ address = {Aachen, DE},
 
 <script>
   $(".btn-bibtex").click(function(event){
-    $("#pre-bibtex-"+$(this).attr('data-bibtex')).slideDown("slow", function(){
-      $(":not(.pre-bibtex)").click(function(event){
-        $(".pre-bibtex").slideUp("slow");
+    var bibtexId = $(this).attr('data-bibtex');
+    $("#pre-bibtex-"+bibtexId).slideDown("slow", function(){
+      $(":not(#pre-bibtex-"+bibtexID+")").click(function(event){
+        $("#pre-bibtex-"+bibtexID).slideUp("slow");
       });
     });
   });
