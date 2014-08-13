@@ -51,10 +51,12 @@ title: research
           <div class="media-body">
             <h4 class="media-heading">
               <strong>Hotspotizer</strong>
-              <a href="http://designlab.ku.edu.tr/design-thinking-research-group/hotspotizer/"><i class="fa fa-external-link-square"></i></a>
             </h4>
             <p>
               Hotspotizer allows users without computer programming skills to design, visualize, save and recall sets of custom full-body gestures. These gestures are mapped to system-wide keyboard commands which can be used to control any application that runs on the current versions of the Microsoft Windows platform. Hotspotizer is centered around a novel, easy-to-use graphical interface, based on space discretization, for specifying free-form, full-body gestures (i.e. “teaching” gestures to a computer) for use with the Microsoft Kinect sensor.
+            </p>
+            <p>
+              <a class="btn btn-primary btn-xs" target="_blank" href="http://designlab.ku.edu.tr/design-thinking-research-group/hotspotizer/"><i class="fa fa-external-link-square"></i></a>
             </p>
           </div>
         </li>
@@ -83,9 +85,6 @@ title: research
             <p>
               Drawing from a user-centered design process and guidelines derived from the literature, we developed a paradigm based on space discretization for declaratively authoring mid-air gestures and implemented it in Hotspotizer, an end-to-end toolkit for mapping custom gestures to keyboard commands. Our implementation empowers diverse user populations – including end-users without domain expertise – to develop custom gestural interfaces within minutes, for use with arbitrary applications.
             </p>
-            <p>
-              <a class="btn btn-primary btn-xs" href="#">BibTeX</a>
-            </p>
           </div>
         </li>
 
@@ -101,10 +100,23 @@ title: research
               Gesture authoring tools enable the rapid and experiential prototyping of gesture-based interfaces. We survey visual authoring tools for mid-air gestures and identify three paradigms used for representing and manipulating gesture information: graphs, visual markup languages and timelines. We examine the strengths and limitations of these approaches and we propose a novel paradigm to authoring location-based mid-air gestures based on space discretization.
             </p>
             <p>
-              <a class="btn btn-primary btn-xs" href="http://ceur-ws.org/Vol-1190/"><i class="fa fa-book"></i></a>
-              <a class="btn btn-primary btn-xs" href="http://ceur-ws.org/Vol-1190/paper2.pdf"><i class="fa fa-file-pdf-o"></i></a>
-              <a class="btn btn-primary btn-xs" href="#">BibTeX</a>
+              <a class="btn btn-primary btn-xs" target="_blank" href="http://ceur-ws.org/Vol-1190/"><i class="fa fa-book"></i></a>
+              <a class="btn btn-primary btn-xs" target="_blank" href="http://ceur-ws.org/Vol-1190/paper2.pdf"><i class="fa fa-file-pdf-o"></i></a>
+              <button class="btn btn-primary btn-xs btn-bibtex" data-bibtex="Baytas-2014-EGMI">BibTeX</button>
             </p>
+            <div class="well well-bibtex" id="well-bibtex-Baytas-2014-EGMI">
+              <pre>@inproceedings{Baytas:2014:EGMI,
+author = {Baytaş, Mehmet Aydın and Yemez, Yücel and Özcan, Oğuzhan},
+year = {2014},
+title = {{User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation }},
+booktitle = {Proceedings of the Workshop on Engineering Gestures for Multimodal Interfaces},
+series = {EGMI 2014},
+pages = {8--14},
+editor = {Echthler, Florian and Hoste, Lode and Kammer, Dietrich and Signer, Beat and Vanacken, Davy},
+publisher = {Sun SITE Central Europe (CEUR)},
+address = {Aachen, DE},
+}</pre>
+            </div>
           </div>
         </li>
 
@@ -120,9 +132,9 @@ title: research
               In this paper, we propose re-reading of past artifacts and traditions as a possible way to inspire the design of future media on non-flat displays. As an example, we illustrate how different narrative typologies found in ancient Greek vases, circular story reading, bottom-up time reading, abstract and realistic contrast reading and reading in alignment, can yield alternatives to interactive content specific to spherical media. We conclude by pointing out design considerations regarding the composition of graphic elements on spherical surfaces.
             </p>
             <p>
-              <a class="btn btn-primary btn-xs" href="http://displayworkshop.media.mit.edu/ITS2012/papers.html"><i class="fa fa-book"></i></a>
-              <a class="btn btn-primary btn-xs" href="http://displayworkshop.media.mit.edu/ITS2012/downloads/paper-Ozcan.pdf"><i class="fa fa-file-pdf-o"></i></a>
-              <a class="btn btn-primary btn-xs" href="#">BibTeX</a>
+              <a class="btn btn-primary btn-xs" target="_blank" href="http://displayworkshop.media.mit.edu/ITS2012/papers.html"><i class="fa fa-book"></i></a>
+              <a class="btn btn-primary btn-xs" target="_blank" href="http://displayworkshop.media.mit.edu/ITS2012/downloads/paper-Ozcan.pdf"><i class="fa fa-file-pdf-o"></i></a>
+              <button class="btn btn-primary btn-xs" href="#">BibTeX</button>
             </p>
           </div>
         </li>
@@ -142,4 +154,13 @@ title: research
     font-size: 15px;
     font-weight: normal;
   }
+  .well-bibtex {
+    display: none;
+  }
 </style>
+
+<script>
+  $(".btn-bibtex").click(function(event){
+    $("#well-bibtex-"+$(this).attr('data-bibtex')).show("slow");
+  });
+</script>
