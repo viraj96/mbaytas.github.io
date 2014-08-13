@@ -104,11 +104,10 @@ title: research
               <a class="btn btn-primary btn-xs" target="_blank" href="http://ceur-ws.org/Vol-1190/paper2.pdf"><i class="fa fa-file-pdf-o"></i></a>
               <button class="btn btn-primary btn-xs btn-bibtex" data-bibtex="Baytas-2014-EGMI">BibTeX</button>
             </p>
-            <div class="well well-bibtex" id="well-bibtex-Baytas-2014-EGMI">
-              <pre>@inproceedings{Baytas:2014:EGMI,
+            <pre class="pre-bibtex" id="pre-bibtex-Baytas-2014-EGMI">@inproceedings{Baytas:2014:EGMI,
 author = {Baytaş, Mehmet Aydın and Yemez, Yücel and Özcan, Oğuzhan},
 year = {2014},
-title = {{User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation }},
+title = {User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation},
 booktitle = {Proceedings of the Workshop on Engineering Gestures for Multimodal Interfaces},
 series = {EGMI 2014},
 pages = {8--14},
@@ -116,7 +115,6 @@ editor = {Echthler, Florian and Hoste, Lode and Kammer, Dietrich and Signer, Bea
 publisher = {Sun SITE Central Europe (CEUR)},
 address = {Aachen, DE},
 }</pre>
-            </div>
           </div>
         </li>
 
@@ -161,6 +159,9 @@ address = {Aachen, DE},
 
 <script>
   $(".btn-bibtex").click(function(event){
-    $("#well-bibtex-"+$(this).attr('data-bibtex')).show("slow");
+    $("#pre-bibtex-"+$(this).attr('data-bibtex')).slideDown("slow");
+    $(":not(.pre-bibtex)").click(function(event){
+      $(".pre-bibtex").slideUp("slow");
+    });
   });
 </script>
