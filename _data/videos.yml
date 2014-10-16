@@ -3,3 +3,15 @@
   pub:
   pbd: 2012-08-09
   rdd: 2014-04-29
+  
+- ttl: "Lecture: Nile Rodgers (Madrid 2011) - Part 1"
+  url: http://vimeo.com/32135545
+  pub: Red Bull Music Academy
+  pbd: 2011-11-10
+  rdd: 2014-10-11
+  
+- ttl: "Lecture: Nile Rodgers (Madrid 2011) - Part 2"
+  url: http://vimeo.com/32401638
+  pub: Red Bull Music Academy
+  pbd: 2011-11-20
+  rdd: 2014-10-11
