@@ -33,3 +33,27 @@
   pub: Red Bull Music Academy
   pbd: 2011-07-08
   rdd: 2014-10-03
+
+- ttl: "Music as a Language: Victor Wooten at TEDxGabriolaIsland"
+  url: http://www.youtube.com/watch?v=2zvjW9arAZ0
+  pub: TEDx
+  pbd: 2013-05-29
+  rdd: 2014-08-19
+
+- ttl: Gevende Live at Mezzo Voce - Corsica, Fr
+  url: http://www.youtube.com/watch?v=8d9ypa89RHQ
+  pub:
+  pbd: 2014-03-27
+  rdd: 2014-07-19
+
+- ttl: DARKSIDE - Freak, Go Home (Live on KEXP)
+  url: http://www.youtube.com/watch?v=RjREc0SidFY
+  pub: KEXP
+  pbd: 2013-12-04
+  rdd: 2014-10-03
+
+- ttl: Jon Hopkins - Open Eye Signal (Live on KEXP)
+  url: http://www.youtube.com/watch?v=UMqRGobvC_4
+  pub: KEXP
+  pbd: 2014-01-07
+  rdd: 2014-10-04
