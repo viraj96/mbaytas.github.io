@@ -81,3 +81,39 @@
   pub:
   pbd: 2012-05-01
   rdd: 2014-09-01
+
+- ttl: Facebook VP of Engineering on Solving Hard Things Early
+  url: http://firstround.com/article/Facebook-VP-of-Engineering-on-Solving-Hard-Things-Early
+  pub:
+  pbd: 2014-03-21
+  rdd: 2014-03-21
+
+- ttl: Crash Course on Notation in Programming Language Theory
+  url: http://siek.blogspot.com.tr/2012/07/crash-course-on-notation-in-programming.html
+  pub:
+  pbd: 2012-07-26
+  rdd: 2014-01-08
+
+- ttl: What the Fox Knows
+  url: http://fivethirtyeight.com/features/what-the-fox-knows/
+  pub: FiveThirtyEight
+  pbd: 2014-03-17
+  rdd: 2014-03-17
+
+- ttl: Shenzhen trip report - visiting the world's manufacturing ecosystem
+  url: http://joi.ito.com/weblog/2014/09/01/shenzhen-trip-r.html
+  pub: Joi Ito's Web
+  pbd: 2014-09-01
+  rdd: 2014-09-01
+
+- ttl: Antidisciplinary
+  url: http://joi.ito.com/weblog/2014/10/02/antidisciplinar.html
+  pub: Joi Ito's Web
+  pbd: 2014-10-02
+  rdd: 2014-10-02
+  
+- ttl: How to Read a Patent
+  url: http://adlervermillion.com/how-to-read-a-patent/
+  pub:
+  pbd: 2014-09-02
+  rdd: 2014-09-02
