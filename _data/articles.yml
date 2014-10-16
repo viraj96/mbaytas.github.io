@@ -117,3 +117,21 @@
   pub:
   pbd: 2014-09-02
   rdd: 2014-09-02
+
+- ttl: The Essential Guide to Levels
+  url: http://www.attackmagazine.com/technique/the-essential-guide-to-levels/
+  pub: Attack Magazine
+  pbd: 2014-09-17
+  rdd: 2014-10-13
+
+- ttl: Parallel Compression
+  url: http://www.attackmagazine.com/technique/walkthroughs/parallel-compression/
+  pub: Attack Magazine
+  pbd: 2012-09-11
+  rdd: 2014-10-13
+
+- ttl: Introduction to Loudness
+  url: http://www.attackmagazine.com/technique/walkthroughs/introduction-to-loudness/
+  pub: Attack Magazine
+  pbd: 2012-08-01
+  rdd: 2014-10-13
