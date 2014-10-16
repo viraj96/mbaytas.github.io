@@ -1,0 +1,9 @@
+- ttl: digitalculturebooks
+  url: http://www.digitalculture.org/
+  pbd:
+  rdd: 2014-10-16
+
+- ttl: The Sheep Market
+  url: http://www.thesheepmarket.com/
+  pbd: 2006
+  rdd: 2014-10-16
