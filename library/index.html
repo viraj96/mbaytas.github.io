@@ -67,6 +67,33 @@ title: library
     </div>
   </div><!--/ .row -->
 
+  <div class="row">
+    <div class="col-md-12">
+
+      <div class="page-header">
+        <h2>videos</h2>
+      </div>
+
+      <table class="table table-striped">
+        <tr>
+          <th>Title</th>
+          <th>Publication</th>
+          <th>Publish Date</th>
+          <th>Read Date</th>
+        </tr>
+        {% assign items = site.data.videos | sort:"rdd"  %}
+        {% for item in items reversed %}
+        <tr>
+          <td><a href="{{ item.url }}">{{ item.ttl }}</a></td>
+          <td>{{ item.pub }}</td>
+          <td>{{ item.pbd }}</td>
+          <td>{{ item.rdd }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+
+    </div>
+  </div><!--/ .row -->
 
   <div class="row">
     <div class="col-md-12">
@@ -78,7 +105,6 @@ title: library
       <table class="table table-striped">
         <tr>
           <th>Title</th>
-          <th>Publication</th>
           <th>Publish Date</th>
           <th>Read Date</th>
         </tr>
@@ -86,7 +112,6 @@ title: library
         {% for item in items reversed %}
         <tr>
           <td><a href="{{ item.url }}">{{ item.ttl }}</a></td>
-          <td>{{ item.pub }}</td>
           <td>{{ item.pbd }}</td>
           <td>{{ item.rdd }}</td>
         </tr>
