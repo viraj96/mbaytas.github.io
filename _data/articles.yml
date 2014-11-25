@@ -201,3 +201,15 @@
   pub: Medium
   pbd: 2014-11-20
   rdd: 2014-11-20
+
+- ttl: "What I Learned From Building An App For Low-Income Americans"
+  url: http://www.fastcolabs.com/3038792/what-i-learned-from-building-an-app-for-low-income-americans
+  pub: Co.Labs
+  pbd: 2014-11-24
+  rdd: 2014-11-25
+
+- ttl: "3 Lessons For Building Tech for Low-Income Americans"
+  url: http://www.forbes.com/sites/ciarabyrne/2014/07/28/3-lessons-for-building-tech-for-low-income-americans/
+  pub: Forbes
+  pbd: 2014-7-28
+  rdd: 2014-11-25
