@@ -213,3 +213,9 @@
   pub: Forbes
   pbd: 2014-7-28
   rdd: 2014-11-25
+
+- ttl: "Because Reading is Fundamental"
+  url: http://blog.codinghorror.com/because-reading-is-fundamental-2/
+  pub: Coding Horror
+  pbd: 2014-11-26
+  rdd: 2014-11-26
