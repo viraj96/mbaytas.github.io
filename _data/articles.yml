@@ -214,8 +214,14 @@
   pbd: 2014-7-28
   rdd: 2014-11-25
 
-- ttl: "Because Reading is Fundamental"
-  url: http://blog.codinghorror.com/because-reading-is-fundamental-2/
-  pub: Coding Horror
-  pbd: 2014-11-26
-  rdd: 2014-11-26
+- ttl: "The More You Fail, The Greater Your Success: A User-Centered Design Case Study"
+  url: http://www.smashingmagazine.com/2014/12/02/the-more-you-fail-the-greater-your-success/
+  pub: Smashing Magazine
+  pbd: 2014-12-02
+  rdd: 2014-12-03
+
+- ttl: "24/192 Music Downloads ...and why they make no sense"
+  url: http://xiph.org/~xiphmont/demo/neil-young.html
+  pub:
+  pbd: 2012-03-01
+  rdd: 2014-12-03
