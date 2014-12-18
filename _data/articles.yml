@@ -231,3 +231,15 @@
   pub:
   pbd: 2012-08-01
   rdd: 2014-12-17
+
+- ttl: "Low-cost 3D printers and crowdfunding suicide"
+  url: http://3dprototypesandmodels.com.au/blog-2/
+  pub:
+  pbd: 2014-08-01
+  rdd: 2014-08-10
+  
+- ttl: "Quantifiably unsane: Vessyl"
+  url: http://scottlocklin.wordpress.com/2014/06/24/quantifiably-unsane-vessyl/
+  pub: Locklin on science
+  pbd: 2012-06-24
+  rdd: 2014-06-24
