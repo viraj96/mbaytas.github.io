@@ -225,3 +225,9 @@
   pub:
   pbd: 2012-03-01
   rdd: 2014-12-03
+
+- ttl: "Design Tip: Never Use Black"
+  url: http://ianstormtaylor.com/design-tip-never-use-black/
+  pub:
+  pbd: 2012-08-01
+  rdd: 2014-12-17
