@@ -246,6 +246,24 @@
   
 - ttl: "Martine Rothblatt: She founded SiriusXM, a religion and a biotech. For starters."
   url: http://www.washingtonpost.com/lifestyle/magazine/martine-rothblatt-she-founded-siriusxm-a-religion-and-a-biotech-for-starters/2014/12/11/5a8a4866-71ab-11e4-ad12-3734c461eab6_story.html
-  pub: Locklin on science
+  pub: Washington Post
   pbd: 2014-12-12
   rdd: 2014-12-22
+
+- ttl: "From Gongkai to Open Source"
+  url: http://www.bunniestudios.com/blog/?p=4297
+  pub: bunnie:studios
+  pbd: 2014-12-29
+  rdd: 2014-12-29
+
+- ttl: "A Frank Lloyd Wright Approach To Digital Design"
+  url: http://www.smashingmagazine.com/2014/12/19/frank-lloyd-wright-approach-digital-design/
+  pub: Smashing Magazine
+  pbd: 2014-12-19
+  rdd: 2014-12-29
+
+- ttl: "Design Principles: Visual Weight And Direction"
+  url: http://www.smashingmagazine.com/2014/12/12/design-principles-visual-weight-direction/
+  pub: Locklin on science
+  pbd: 2014-12-12
+  rdd: 2014-12-29
