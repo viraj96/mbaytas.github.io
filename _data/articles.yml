@@ -276,6 +276,12 @@
 
 - ttl: "Can’t You Just Turn Up the Volume?"
   url: https://medium.com/@Amp/cant-you-just-turn-up-the-volume-4ecb7fc422a
-  pub: Smashing Magazine
+  pub:
   pbd: 2015-01-06
   rdd: 2015-01-08
+
+- ttl: "Why We Prefer Founding CEOs"
+  url: http://www.bhorowitz.com/why_we_prefer_founding_ceos
+  pub:
+  pbd: 2010-04-28
+  rdd: 2015-01-15
