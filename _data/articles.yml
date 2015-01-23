@@ -288,6 +288,12 @@
 
 - ttl: "The network effect"
   url: http://www.economist.com/news/business/21639500-being-good-networker-pays-offbut-it-requires-skill-well-shamelessness-network-effect
-  pub:
+  pub: The Economicst
   pbd: 2015-01-17
   rdd: 2015-01-21
+
+- ttl: "Why Bitcoin is and isn't like the Internet"
+  url: http://joi.ito.com/weblog/2015/01/23/why-bitcoin-is-.html
+  pub: Joi Ito's Web
+  pbd: 2015-01-23
+  rdd: 2015-01-23
