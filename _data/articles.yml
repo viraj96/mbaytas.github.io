@@ -297,3 +297,9 @@
   pub: Joi Ito's Web
   pbd: 2015-01-23
   rdd: 2015-01-23
+
+- ttl: "Meditation and Performance"
+  url: https://al3x.net/2015/02/24/meditation-and-performance.html
+  pub:
+  pbd: 2015-02-24
+  rdd: 2015-02-25
