@@ -303,3 +303,9 @@
   pub:
   pbd: 2015-02-24
   rdd: 2015-02-25
+
+- ttl: "USB Killer"
+  url: http://kukuruku.co/hub/diy/usb-killer
+  pub:
+  pbd: 2015-03-10
+  rdd: 2015-03-10
