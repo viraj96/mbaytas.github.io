@@ -288,7 +288,7 @@
 
 - ttl: "The network effect"
   url: http://www.economist.com/news/business/21639500-being-good-networker-pays-offbut-it-requires-skill-well-shamelessness-network-effect
-  pub: The Economicst
+  pub: The Economist
   pbd: 2015-01-17
   rdd: 2015-01-21
 
@@ -309,3 +309,15 @@
   pub:
   pbd: 2015-03-10
   rdd: 2015-03-10
+
+- ttl: "Critical Thoughts On Connective Tech: Material ConneXion's Dr. Andrew Dent"
+  url: http://www.core77.com/posts/31824/Critical-Thoughts-On-Connective-Tech-Material-ConneXions-Dr-Andrew-Dent
+  pub: Core77
+  pbd: 2015-03-11
+  rdd: 2015-03-12
+  
+- ttl: "Fear of Failure and Lack of Speed In a Large Corporation"
+  url: http://steveblank.com/2015/03/11/fear-of-failure-and-lack-of-speed-in-a-large-corporation/
+  pub:
+  pbd: 2015-03-11
+  rdd: 2015-03-12
