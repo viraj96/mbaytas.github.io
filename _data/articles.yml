@@ -340,8 +340,14 @@
   pbd: 2015-03-27
   rdd: 2015-03-28
 
-- ttl: "Physics in 100 years"
+- ttl: "Physics in 100 Years"
   url: http://arxiv.org/pdf/1503.07735v1.pdf
   pub:
   pbd: 2015-03-27
+  rdd: 2015-03-28
+
+- ttl: "James Holden: On Human Timing"
+  url: https://www.ableton.com/en/blog/james-holden-human-timing/
+  pub:
+  pbd: 2015-03-09
   rdd: 2015-03-28
