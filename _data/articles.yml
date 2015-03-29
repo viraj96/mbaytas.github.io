@@ -351,3 +351,9 @@
   pub:
   pbd: 2015-03-09
   rdd: 2015-03-28
+
+- ttl: "Microsoft is interesting again -- very"
+  url: https://www.linkedin.com/pulse/microsoft-interesting-again-very-jason-calacanis
+  pub:
+  pbd: 2015-02-16
+  rdd: 2015-03-29
