@@ -357,3 +357,9 @@
   pub:
   pbd: 2015-02-16
   rdd: 2015-03-29
+
+- ttl: "The Fatal Pinch"
+  url: http://paulgraham.com/pinch.html
+  pub:
+  pbd: 2014-12
+  rdd: 2015-03-29
