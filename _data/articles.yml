@@ -363,3 +363,9 @@
   pub:
   pbd: 2014-12
   rdd: 2015-03-29
+
+- ttl: "Understanding Convolution in Deep Learning"
+  url: https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/
+  pub:
+  pbd: 2015-03-26
+  rdd: 2015-03-31
