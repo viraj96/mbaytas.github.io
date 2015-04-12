@@ -369,3 +369,9 @@
   pub:
   pbd: 2015-03-26
   rdd: 2015-03-31
+
+- ttl: "Why a Harvard Professor Has Mixed Feelings When Students Take Jobs in Finance"
+  url: http://www.nytimes.com/2015/04/12/upshot/why-a-harvard-professor-has-mixed-feelings-when-students-take-jobs-in-finance.html?smid=fb-share&_r=0&abt=0002&abg=1
+  pub: The New York Times
+  pbd: 2015-04-10
+  rdd: 2015-04-12
