@@ -375,3 +375,9 @@
   pub: The New York Times
   pbd: 2015-04-10
   rdd: 2015-04-12
+
+- ttl: "Command-Line Guide to Audio Files in Ubuntu"
+  url: http://www.tuxarena.com/static/cli_audio_guide.php
+  pub: TuxArena
+  pbd: 2010-12-20
+  rdd: 2015-04-26
