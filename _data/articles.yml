@@ -381,3 +381,9 @@
   pub: TuxArena
   pbd: 2010-12-20
   rdd: 2015-04-26
+
+- ttl: "Beat Detection Algorithms (Part 1)"
+  url: http://mziccard.me/2015/05/28/beats-detection-algorithms-1/
+  pub: 
+  pbd: 2015-05-28
+  rdd: 2015-05-30
