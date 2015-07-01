@@ -11,17 +11,11 @@ body {
   height: 60px;
   width: 100%;
   bottom: 0;
-  background-image: url(../img/shattered-island.gif);
   border-top: 1px solid #dddddd;
   border-bottom: none;
 }
 #footer p {
   margin-top: 20px;
-}
-
-
-.navbar-fixed-top {
-  background-image: url(../img/shattered-island.gif);
 }
 
 .account-links a.btn {
