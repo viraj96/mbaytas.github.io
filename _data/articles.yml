@@ -417,3 +417,9 @@
   pub: "The Guardian"
   pbd: 2015-06-25
   rdd: 2015-06-26
+
+- ttl: "What is [Live]? – The New Generation of Live Techno"
+  url: http://www.attackmagazine.com/features/what-is-live-new-generation-live-techno/
+  pub: "Attack Magazine"
+  pbd: 2013-10-10
+  rdd: 2015-07-04
