@@ -423,3 +423,9 @@
   pub: "Attack Magazine"
   pbd: 2013-10-10
   rdd: 2015-07-04
+
+- ttl: "How Not to Make Your Engineer’s Life Completely Terrible"
+  url: https://medium.com/@charliedeets/how-not-to-make-your-engineer-s-life-completely-terrible-292a6d5d134c
+  pub:
+  pbd: 2015-07-08
+  rdd: 2015-07-09
