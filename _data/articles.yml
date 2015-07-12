@@ -429,3 +429,9 @@
   pub:
   pbd: 2015-07-08
   rdd: 2015-07-09
+
+- ttl: "How does Shazam work"
+  url: http://coding-geek.com/how-shazam-works/
+  pub:
+  pbd: 2015-05-23
+  rdd: 2015-07-12
