@@ -441,3 +441,9 @@
   pub: "Attack Magazine"
   pbd: 2015-07-25
   rdd: 2015-07-28
+
+- ttl: "This 90-Day Plan Turns Engineers into Remarkable Managers"
+  url: http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
+  pub:
+  pbd:
+  rdd: 2015-08-04
