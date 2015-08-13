@@ -453,3 +453,15 @@
   pub:
   pbd: 2015-08-04
   rdd: 2015-08-07
+  
+- ttl: "Advice on Entrepreneurship From a Failed Entrepreneur"
+  url: http://econoscale.com/2015/08/07/advise-on-entrepreneurship-from-a-failed-entrepreneur/e
+  pub:
+  pbd: 2015-08-07
+  rdd: 2015-08-13
+  
+- ttl: "Indian immigrants are tech's new titans"
+  url: http://www.latimes.com/business/la-fi-indians-in-tech-20150812-story.html#page=1
+  pub: Los Angeles Times
+  pbd: 2015-08-11
+  rdd: 2015-08-13
