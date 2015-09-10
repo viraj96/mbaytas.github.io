@@ -471,3 +471,9 @@
   pub: 
   pbd: 2015-08-12
   rdd: 2015-08-19
+
+- ttl: "How we ended up with microservices"
+  url: http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
+  pub: 
+  pbd: 2015-09-08
+  rdd: 2015-09-10
