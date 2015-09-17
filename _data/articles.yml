@@ -477,3 +477,9 @@
   pub: 
   pbd: 2015-09-08
   rdd: 2015-09-10
+
+- ttl: "Google Is 2B Lines of Code, All in One Place"
+  url: http://www.wired.com/2015/09/google-2-billion-lines-codeand-one-place/
+  pub: Wired
+  pbd: 2015-09-16
+  rdd: 2015-09-17
