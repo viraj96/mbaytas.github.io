@@ -15,9 +15,18 @@ title: library
 
   <div class="row">
     <div class="col-md-12">
+      <p>
+        This is an experiment where I keep track of the stuff I read.
+      </p>
+    </div>
+  </div><!--/ .row -->
+
+
+  <div class="row">
+    <div class="col-md-12">
 
       <div class="page-header">
-        <h2>articles</h2>
+        <h2>online articles</h2>
       </div>
 
       <table class="table table-striped">
@@ -41,85 +50,6 @@ title: library
     </div>
   </div><!--/ .row -->
 
-  <div class="row">
-    <div class="col-md-12">
-
-      <div class="page-header">
-        <h2>projects</h2>
-      </div>
-
-      <table class="table table-striped">
-        <tr>
-          <th>Title</th>
-          <th>Publish Date</th>
-          <th>Read Date</th>
-        </tr>
-        {% assign items = site.data.projects | sort:"rdd"  %}
-        {% for item in items reversed %}
-        <tr>
-          <td><a href="{{ item.url }}">{{ item.ttl }}</a></td>
-          <td>{{ item.pbd }}</td>
-          <td>{{ item.rdd }}</td>
-        </tr>
-        {% endfor %}
-      </table>
-
-    </div>
-  </div><!--/ .row -->
-
-  <div class="row">
-    <div class="col-md-12">
-
-      <div class="page-header">
-        <h2>videos</h2>
-      </div>
-
-      <table class="table table-striped">
-        <tr>
-          <th>Title</th>
-          <th>Publication</th>
-          <th>Publish Date</th>
-          <th>Watch Date</th>
-        </tr>
-        {% assign items = site.data.videos | sort:"rdd"  %}
-        {% for item in items reversed %}
-        <tr>
-          <td><a href="{{ item.url }}">{{ item.ttl }}</a></td>
-          <td>{{ item.pub }}</td>
-          <td>{{ item.pbd }}</td>
-          <td>{{ item.rdd }}</td>
-        </tr>
-        {% endfor %}
-      </table>
-
-    </div>
-  </div><!--/ .row -->
-
-  <div class="row">
-    <div class="col-md-12">
-
-      <div class="page-header">
-        <h2>online books</h2>
-      </div>
-
-      <table class="table table-striped">
-        <tr>
-          <th>Title</th>
-          <th>Publish Date</th>
-          <th>Read Date</th>
-        </tr>
-        {% assign items = site.data.online-books | sort:"rdd"  %}
-        {% for item in items reversed %}
-        <tr>
-          <td><a href="{{ item.url }}">{{ item.ttl }}</a></td>
-          <td>{{ item.pbd }}</td>
-          <td>{{ item.rdd }}</td>
-        </tr>
-        {% endfor %}
-      </table>
-
-    </div>
-  </div><!--/ .row -->
 
 </div><!--/ .container -->
 
