@@ -551,7 +551,13 @@
   rdd: 2015-11-06
 
 - ttl: "The Buddhist Priest Who Became a Billionaire Snubbing Investors"
-  url: hhttp://www.bloomberg.com/news/articles/2015-11-04/the-no-1-business-rule-of-this-billionaire-and-buddhist-priest
+  url: http://www.bloomberg.com/news/articles/2015-11-04/the-no-1-business-rule-of-this-billionaire-and-buddhist-priest
   pub: Bloomberg Business
+  pbd: 2015-11-05
+  rdd: 2015-11-06
+
+- ttl: "Drums, Lies, and Audiotape"
+  url: http://nautil.us/issue/30/identity/drums-lies-and-audiotape
+  pub: Nautilus
   pbd: 2015-11-05
   rdd: 2015-11-06
