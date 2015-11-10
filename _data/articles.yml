@@ -560,4 +560,16 @@
   url: http://nautil.us/issue/30/identity/drums-lies-and-audiotape
   pub: Nautilus
   pbd: 2015-11-05
-  rdd: 2015-11-06
+  rdd: 2015-11-09
+
+- ttl: "The Man Who Tried to Redeem the World with Logic"
+  url: http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic
+  pub: Nautilus
+  pbd: 2015-02-05
+  rdd: 2015-11-10
+  
+- ttl: "The Cook and the Chef: Musk’s Secret Sauce"
+  url: http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html
+  pub: Wait But Why
+  pbd: 2015-11-06
+  rdd: 2015-11-10
