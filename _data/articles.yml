@@ -573,3 +573,9 @@
   pub: Wait But Why
   pbd: 2015-11-06
   rdd: 2015-11-10
+
+- ttl: "How Do Transistors Work? NO, HOW DO THEY REALLY WORK?"
+  url: http://amasci.com/amateur/transis.html
+  pub: 
+  pbd: 1995
+  rdd: 2015-11-13
