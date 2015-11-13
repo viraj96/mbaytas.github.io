@@ -574,6 +574,12 @@
   pbd: 2015-11-06
   rdd: 2015-11-10
 
+- ttl: "The O-Ring Theory of DevOps"
+  url: http://blog.acolyer.org/2015/11/11/the-o-ring-theory-of-devops/
+  pub: 
+  pbd: 2015-11-11
+  rdd: 2015-11-12
+
 - ttl: "How Do Transistors Work? NO, HOW DO THEY REALLY WORK?"
   url: http://amasci.com/amateur/transis.html
   pub: 
