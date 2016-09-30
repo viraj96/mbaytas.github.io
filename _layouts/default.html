@@ -68,7 +68,7 @@
     
     <script>
       $(document).ready(function() {
-        $('h1').wrap("<div class='page-header'></div>");
+        $('h1:not(.landing-title)').wrap("<div class='page-header'></div>");
         $('h2').wrap("<div class='page-header'></div>");
       });
     </script>
