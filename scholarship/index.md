@@ -40,7 +40,7 @@ Multiplying all weights and biases by `c > 0`, as `c -> oo`:
 </p>
 
 <p>
-`lim_(c -> oo) 1 / (1 + e ^ -c(w * x + b)) = {(0 if w * x + b < 0), (1 if w * x + b > 0):}`
+`lim_(c -> oo) 1 / (1 + e ^ (-c(w * x + b))) = {(0 if w * x + b < 0), (1 if w * x + b > 0):}`
 </p>
 
 <p>
@@ -48,7 +48,7 @@ This indeed fails when `w * x + b = 0`:
 </p>
 
 <p>
-`lim_(c -> oo) 1 / (1 + e ^ -c(w * x - b)) = 1 / 2`
+`lim_(c -> oo) 1 / (1 + e ^ (-c(w * x - b))) = 1 / 2`
 </p>
 
 #### Determining the bitwise representation of a digit by adding an extra layer
