@@ -3,13 +3,7 @@ layout: default
 title: scholarship
 ---
 
-<div class="row">
-  <div class="col-md-12">
-    <div class="page-header">
-      <h1>scholarship</h1>
-    </div>
-  </div>
-</div><!--/ .row -->
+# scholarship
 
 ## solutions for Exercises in Michael Nielsen's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
@@ -65,6 +59,7 @@ This indeed fails when `w * x + b = 0`:
 
 <script>
 $(document).ready(function() {
-  $('h2').wrap("<div class='page-header'></div>")
+  $('h1').wrap("<div class="row"><div class="col-md-12"><div class="page-header"></div></div></div>")
+  $('h2').wrap("<div class='page-header'></div>");
 });
 </script>
