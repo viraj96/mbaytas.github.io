@@ -62,5 +62,20 @@ We can begin figuring out the weights and biases for the new output layer by wri
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
 
 <script>
-  $("div:contains('$')").css("text-align", "center");
+  // http://stackoverflow.com/questions/9213907/
+  $.extend($.expr[":"], {
+    "starts-with": function(elem, i, data, set) {
+      var text = $.trim($(elem).text()),
+          term = data[3];
+      // first index is 0
+      return text.indexOf(term) === 0;
+    },
+    "ends-with": function(elem, i, data, set) {
+      var text = $.trim($(elem).text()),
+          term = data[3];
+      // last index is last possible
+      return text.lastIndexOf(term) === text.length - term.length;
+    }
+});
+  $("p:starts-with('$'):ends-with('$')").css("text-align", "center");
 </script>
