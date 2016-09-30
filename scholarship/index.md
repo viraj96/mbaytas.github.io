@@ -53,10 +53,8 @@ This indeed fails when `w * x + b = 0`:
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     asciimath2jax: {
-      delimiters: [ ['$$','$$'] ]
+      delimiters: [ ['$$','$$'], ['`', '`'] ]
     },
   });
 </script>
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AMS_HTML">
-</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AMS_HTML"></script>
