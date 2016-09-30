@@ -59,8 +59,11 @@ Following http://datascience.stackexchange.com/questions/6639/:
 Thus, one set of weights to the new output layer can be:
 
 $ w_1k^n = {-10, 10, -10, 10, -10, 10, -10, 10, -10, 10} $
+
 $ w_2k^n = {-10, -10, 10, 10, -10, -10, 10, 10, -10, -10} $
+
 $ w_3k^n = {-10, -10, -10, -10, 10, 10, 10, 10, -10, -10} $
+
 $ w_4k^n = {-10, -10, -10, -10, -10, -10, -10, -10, 10, 10} $
 
 <script type="text/x-mathjax-config">
