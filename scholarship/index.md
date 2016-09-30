@@ -59,7 +59,6 @@ This indeed fails when `w * x + b = 0`:
 
 <script>
 $(document).ready(function() {
-  $('h1').wrap("<div class="row"><div class="col-md-12"><div class="page-header"></div></div></div>");
   $('h2').wrap("<div class='page-header'></div>");
 });
 </script>
