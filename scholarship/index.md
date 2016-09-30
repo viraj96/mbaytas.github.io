@@ -52,9 +52,9 @@ This indeed fails when `w * x + b = 0`:
 
 #### Determining the bitwise representation of a digit by adding an extra layer
 
-<script type="text/javascript" async
+<!-- <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+</script>-->
 
 <script>
 $(document).ready(function() {
