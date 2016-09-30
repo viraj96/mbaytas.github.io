@@ -54,8 +54,9 @@ We can begin figuring out the weights and biases for the new output layer by wri
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
+    displayAlign: "center",
     asciimath2jax: {
-      delimiters: [ ['$','$'] ]\
+      delimiters: [ ['$','$'] ]
     },
   });
 </script>
