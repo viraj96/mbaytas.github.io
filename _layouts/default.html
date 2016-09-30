@@ -65,6 +65,13 @@
     </div><!--/ #footer-->
 
     <script src="{{ root }}/js/navhighlight.js"></script>
+    
+    <script>
+      $(document).ready(function() {
+        $('h1').wrap("<div class='page-header'></div>");
+        $('h2').wrap("<div class='page-header'></div>");
+      });
+    </script>
 
   </body>
 
