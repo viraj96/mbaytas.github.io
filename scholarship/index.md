@@ -54,10 +54,13 @@ We can begin figuring out the weights and biases for the new output layer by wri
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
-    displayAlign: "center",
     asciimath2jax: {
       delimiters: [ ['$','$'] ]
     },
   });
 </script>
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
+
+<script>
+  $("div:contains('$')").css("text-align", "center");
+</script>
