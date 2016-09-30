@@ -14,12 +14,10 @@ title: scholarship
 (2) in the textbook gives the 'perceptron rule' as:
 
 $$ output = {(0 if w * x + b <= 0), (1 if w * x + b > 0):} $$
-{: .text-center}
 
 Multiplying the weights and biases with a positive constant gives:
 
 $$ output = {(0 if cw * x + cb <= 0), (1 if cw * x + cb > 0):} $$
-{: .text-center}
 
 <p>
 Since the right side on both pieces of the equation is equal to zero, dividing both sides by `c` yields the original perceptron rule; hence, the behaviour of the network doesn't change when all weights and biases are multiplied with a positive constant.
@@ -54,9 +52,8 @@ This indeed fails when `w * x + b = 0`:
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$$','$$'] ],
-      displayMath: [ ['$$','$$'] ]
+    asciimath2jax: {
+      delimiters: [ ['$$','$$'] ]
     },
   });
 </script>
