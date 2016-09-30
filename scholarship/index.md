@@ -62,3 +62,9 @@ This indeed fails when `w * x + b = 0`:
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+
+<script>
+$(document).ready(function() {
+  $('h2').wrap("<div class='page-header'></div>")
+});
+</script>
