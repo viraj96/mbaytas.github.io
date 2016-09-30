@@ -7,7 +7,7 @@ title: scholarship
 
 ## solutions for Exercises in Michael Nielsen's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
-### Chapter 1: Using neural nets to recognize handwritten digits</h3>
+### Chapter 1: Using neural nets to recognize handwritten digits
       
 #### Sigmoid neurons simulating perceptrons, part I
       
@@ -59,10 +59,4 @@ This indeed fails when `w * x + b = 0`:
 </script>
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML">
-</script>
-
-<script>
-$(document).ready(function() {
-  $('h2').wrap("<div class='page-header'></div>");
-});
 </script>
