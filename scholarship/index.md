@@ -13,7 +13,7 @@ title: scholarship
       
 (2) in the textbook gives the 'perceptron rule' as:
 
-$$ `output = {(0 if w * x + b <= 0), (1 if w * x + b > 0):}` $$
+$$ output = {(0 if w * x + b <= 0), (1 if w * x + b > 0):} $$
 {: .text-center}
 
 Multiplying the weights and biases with a positive constant gives:
