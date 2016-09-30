@@ -49,8 +49,18 @@ We can begin figuring out the weights and biases for the new output layer by wri
     7 -> 0 1 1 1
     8 -> 1 0 0 0
     9 -> 1 0 0 1
-    
 
+Following http://datascience.stackexchange.com/questions/6639/:
+
+> Each output neuron should have a positive weight between itself and output neurons which should be on to represent it, and a negative weight between itself and output neurons that should be off. The values should combine to be large enough to cleanly switch on or off, so I would use largish weights, such as +10 and -10.
+> If you have sigmoid activations here, the bias is not that relevant. You just want to simply saturate each neuron towards on or off.
+
+Thus, one set of weights to the new output layer can be:
+
+$ w_1k^n = {-10, 10, -10, 10, -10, 10, -10, 10, -10, 10} $
+$ w_2k^n = {-10, -10, 10, 10, -10, -10, 10, 10, -10, -10} $
+$ w_3k^n = {-10, -10, -10, -10, 10, 10, 10, 10, -10, -10} $
+$ w_4k^n = {-10, -10, -10, -10, -10, -10, -10, -10, 10, 10} $
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -60,22 +70,3 @@ We can begin figuring out the weights and biases for the new output layer by wri
   });
 </script>
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
-
-<script>
-  // http://stackoverflow.com/questions/9213907/
-  $.extend($.expr[":"], {
-    "starts-with": function(elem, i, data, set) {
-      var text = $.trim($(elem).text()),
-          term = data[3];
-      // first index is 0
-      return text.indexOf(term) === 0;
-    },
-    "ends-with": function(elem, i, data, set) {
-      var text = $.trim($(elem).text()),
-          term = data[3];
-      // last index is last possible
-      return text.lastIndexOf(term) === text.length - term.length;
-    }
-});
-  $("p:starts-with('$'):ends-with('$')").css("text-align", "center");
-</script>
