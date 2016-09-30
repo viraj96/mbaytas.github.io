@@ -13,7 +13,7 @@ title: scholarship
       
 (2) in the textbook gives the 'perceptron rule' as:
 
-$$ output = {(0 if w * x + b <= 0), (1 if w * x + b > 0):} $$
+$ output = {(0 if w * x + b <= 0), (1 if w * x + b > 0):} $
 
 Multiplying the weights and biases with a positive constant gives:
 
@@ -53,7 +53,7 @@ This indeed fails when `w * x + b = 0`:
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     asciimath2jax: {
-      delimiters: [ ['$$','$$'], ['`', '`'] ]
+      delimiters: [ ['$','$'], ['`', '`'] ]
     },
   });
 </script>
