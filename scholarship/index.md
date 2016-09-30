@@ -58,5 +58,5 @@ This indeed fails when `w * x + b = 0`:
   });
 </script>
 <script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML">
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AMS_HTML">
 </script>
