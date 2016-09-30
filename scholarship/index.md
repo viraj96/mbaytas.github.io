@@ -3,7 +3,13 @@ layout: default
 title: scholarship
 ---
 
-# scholarship
+<div class="row">
+  <div class="col-md-12">
+    <div class="page-header">
+      <h1>scholarship</h1>
+    </div>
+  </div>
+</div><!--/ .row -->
 
 ## solutions for Exercises in Michael Nielsen's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
