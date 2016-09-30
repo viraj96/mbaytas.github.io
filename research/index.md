@@ -78,7 +78,6 @@ title: research
       </div><!-- .modal -->
     </div>
   </li>
-  </li>
   <li class="media">
     <img class="media-object pull-left" src="img/laser.jpg" alt="Hotspotizer" width="160px">
     <div class="media-body">
