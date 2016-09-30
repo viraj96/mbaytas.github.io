@@ -17,43 +17,46 @@ $ output = {(0 if w * x + b <= 0), (1 if w * x + b > 0):} $
 
 Multiplying the weights and biases with a positive constant gives:
 
-$$ output = {(0 if cw * x + cb <= 0), (1 if cw * x + cb > 0):} $$
+$ output = {(0 if cw * x + cb <= 0), (1 if cw * x + cb > 0):} $
 
-<p>
-Since the right side on both pieces of the equation is equal to zero, dividing both sides by `c` yields the original perceptron rule; hence, the behaviour of the network doesn't change when all weights and biases are multiplied with a positive constant.
-</p>
+Since the right side on both pieces of the equation is equal to zero, dividing both sides by $ c $ yields the original perceptron rule; hence, the behaviour of the network doesn't change when all weights and biases are multiplied with a positive constant.
 
 #### Sigmoid neurons simulating perceptrons, part II 
 
 Following (3) and (4) in the textbook, the output of a sigmoid neuron can be written as:
 
-<p>
-`sigma(x) = 1 / (1 + e ^ (- w * x - b))`
-</p>
+$ sigma(x) = 1 / (1 + e ^ (- w * x - b)) $
 
-<p>
-Multiplying all weights and biases by `c > 0`, as `c -> oo`:
-</p>
+Multiplying all weights and biases by $ c > 0 $ as $ c -> oo $ gives us a step function:
 
-<p>
-`lim_(c -> oo) 1 / (1 + e ^ (-c(w * x + b))) = {(0 if w * x + b < 0), (1 if w * x + b > 0):}`
-</p>
+$ lim_(c -> oo) 1 / (1 + e ^ (-c(w * x + b))) = {(0 if w * x + b < 0), (1 if w * x + b > 0):} $
 
-<p>
-This indeed fails when `w * x + b = 0`:
-</p>
+This indeed fails to produce a binary classification when $ w * x + b = 0 $:
 
-<p>
-`lim_(c -> oo) 1 / (1 + e ^ (-c(w * x - b))) = 1 / 2`
-</p>
+$ lim_(c -> oo) 1 / (1 + e ^ (-c(w * x - b))) = 1 / 2 $
 
 #### Determining the bitwise representation of a digit by adding an extra layer
+
+We can begin figuring out the weights and biases for the new output layer by writing out what each digit will look like in 4-bit binary:
+
+    0 -> 0 0 0 0
+    1 -> 0 0 0 1
+    2 -> 0 0 1 0
+    3 -> 0 0 1 1
+    4 -> 0 1 0 0
+    5 -> 0 1 0 1
+    6 -> 0 1 1 0
+    7 -> 0 1 1 1
+    8 -> 1 0 0 0
+    9 -> 1 0 0 1
+    
 
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
+    displayAlign: "center",
     asciimath2jax: {
-      delimiters: [ ['$$','$$'], ['$','$'], ['`', '`'] ]
+      delimiters: [ ['$','$'] ]\
     },
   });
 </script>
