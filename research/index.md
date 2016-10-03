@@ -5,7 +5,7 @@ title: research
 
 # research
 
-## artifacts
+## projects
 
 <ul class="media-list">
   <li class="media">
@@ -112,220 +112,26 @@ title: research
 
 ## publications
 
-<ul class="media-list">
+- Baytaş, M.A., Göksun, T. & Özcan, O. **The Perception of Live-sequenced Electronic Music via Hearing and Sight**. *Proc. NIME '16.*
+- Baytaş, M. A., Yemez, Y., & Özcan, O. **Hotspotizer: end-user authoring of mid-air gestural interactions**. *Proc. NordiCHI '14.*
+- Baytaş, M.A. **End-User Authoring of Mid-Air Gestural Interactions**. (MA thesis submitted to the Koç University Graduate School of Social Sciences and Humanities)
+- Baytaş, M. A., Yemez, Y., & Özcan, O. **User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation**. *Proc. EGMI 2014.*
+- Özcan, O., Ünlüer, A., Baytaş, M.A. & Serim, B. **Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases**. Paper presented at the *ITS '12* workshop *Beyond Flat Displays: Towards Shaped and Deformable Interactive Surfaces*.
 
-  <li class="media">
-    <img class="media-object pull-left" src="img/2016-perception.png" alt="The Perception of Live-sequenced Electronic Music via Hearing and Sight" width="160px">
-    <div class="media-body">
-      <h4 class="media-heading">
-        Mehmet Aydın Baytaş, Tilbe Göksun and Oğuzhan Özcan (2016)<br>
-        <strong>The Perception of Live-sequenced Electronic Music via Hearing and Sight</strong><br>
-        in <em>Proceedings of the 2016 International Conference on New Interfaces for Musical Expression (NIME 2016) (forthcoming)</em>
-      </h4>
-      <p>
-        In this paper, we investigate how watching a live-sequenced electronic music performance, compared to merely hearing the music, contributes to spectators’ experiences of tension. We also explore the role of the performers’ "effective" and "ancillary" gestures in conveying tension, when they can be seen. To this end, we conducted an experiment where 30 participants heard, saw, or both heard and saw a live-sequenced techno music performance recording while they produced continuous judgments on their experience of tension. Eye tracking data was also recorded from participants who saw the visuals, to reveal aspects of the performance that influenced their tension judgments. We analysed the data to explore how auditory and visual components and the performer’s movements contribute to spectators’ experience of tension. Our results show that their perception of emotional intensity is consistent across hearing and sight, suggesting that gestures in “non-instrumental” live-sequencing can be a medium for expressive performance.
-      </p>
-      <p>
-        <a class="btn btn-primary btn-xs" target="_blank" href="img/nime2016.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
-        <a class="btn btn-info btn-xs" target="_blank" href="#" data-toggle="modal" data-target="#bibtex-2016-NIME">BibTeX</a>
-      </p>
-      <div class="modal fade" id="bibtex-2016-NIME" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">BibTeX Entry for <strong>The Perception of Live-sequenced Electronic Music via Hearing and Sight</strong></h4>
-            </div>
-            <div class="modal-body">
-              <pre>@inproceedings{Baytas:2016:NIME,
-author = {Bayta\c{s}, Mehmet Ayd\in and G\”{o}ksun, Tilbe and \"{O}zcan, O\u{g}uzhan},
-title = {The Perception of Live-sequenced Electronic Music via Hearing and Sight},
-booktitle = {Proceedings of the 2016 International Conference on New Interfaces for Musical Expression},
-series = {NIME '16},
-year = {2016},
-location = {Brisbane, Australia},
-numpages = {6},
-publisher = {NIME},
-keywords = {live-sequencing, spectator experience, tension, experiment, functional data analysis, eye tracking}
-}</pre>
-            </div>
-          </div>
-        </div>
-      </div><!-- .modal -->
-    </div>
-  </li>
+## externally funded projects
 
-  <li class="media">
-    <img class="media-object pull-left" src="img/2014-hotspotizer-end-user.png" alt="Hotspotizer: End-User Authoring of Mid-Air Gestural Interactions" width="160px">
-    <div class="media-body">
-      <h4 class="media-heading">
-        Mehmet Aydın Baytaş, Yücel Yemez and Oğuzhan Özcan (2014)<br>
-        <strong>Hotspotizer: End-User Authoring of Mid-Air Gestural Interactions</strong><br>
-        in <em>Proceedings of the 8th Nordic Conference on Human-Computer Interaction (NordiCHI '14)</em>
-      </h4>
-      <p>
-        Drawing from a user-centered design process and guidelines derived from the literature, we developed a paradigm based on space discretization for declaratively authoring mid-air gestures and implemented it in Hotspotizer, an end-to-end toolkit for mapping custom gestures to keyboard commands. Our implementation empowers diverse user populations – including end-users without domain expertise – to develop custom gestural interfaces within minutes, for use with arbitrary applications.
-      </p>
-      <p>
-        <a class="btn btn-primary btn-xs" target="_blank" href="http://dl.acm.org/citation.cfm?id=2639255"><i class="fa fa-file-pdf-o"></i> PDF</a>
-        <a class="btn btn-info btn-xs" target="_blank" href="#" data-toggle="modal" data-target="#bibtex-2014-NordiCHI">BibTeX</a>
-      </p>
-      <div class="modal fade" id="bibtex-2014-NordiCHI" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">BibTeX Entry for <strong>Hotspotizer: End-User Authoring of Mid-Air Gestural Interactions</strong></h4>
-            </div>
-            <div class="modal-body">
-              <pre>@inproceedings{Baytas:2014:NordiCHI,
-author = {Bayta\c{s}, Mehmet Ayd\in and Yemez, Y\"{u}cel and \"{O}zcan, O\u{g}uzhan},
-title = {Hotspotizer: End-user Authoring of Mid-air Gestural Interactions},
-booktitle = {Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational},
-series = {NordiCHI '14},
-year = {2014},
-location = {Helsinki, Finland},
-pages = {677--686},
-numpages = {10},
-url = {http://doi.acm.org/10.1145/2639189.2639255},
-doi = {10.1145/2639189.2639255},
-acmid = {2639255},
-publisher = {ACM},
-address = {New York, NY, USA},
-keywords = {end-user development, gestural interaction, gesture authoring, hotspotizer, interface prototyping, visual programming},
-}</pre>
-            </div>
-          </div>
-        </div>
-      </div><!-- .modal -->
-    </div>
-  </li>
+### as coordinator
 
-  <li class="media">
-    <img class="media-object pull-left" src="img/2014-thesis.png" alt="End-User Authoring of Mid-Air Gestural Interactions" width="160px">
-    <div class="media-body">
-      <h4 class="media-heading">
-        Mehmet Aydın Baytaş (2014)<br>
-        <strong>End-User Authoring of Mid-Air Gestural Interactions</strong><br>
-        master's thesis submitted to the Koç University Graduate School of Social Sciences and Humanities
-      </h4>
-      <p>
-        Devices that sense the alignment and motion of human limbs via computer vision have recently become a commodity; enabling a variety of novel user interfaces that use human gesture as the main input modality. The design and development of these interfaces requires programming tools that support the representation, creation and manipulation of information on human body gestures. Following concerns such as usability and physical differences among individuals, these tools should ideally target end-users and designers as well as professional software developers. This thesis documents the design, development, deployment and evaluation of a software application to support gesture authoring by end-users for skeletal tracking vision-based input devices. The software enables end-users without programming experience to introduce gesture control to computing applications that serve their own goals; and provides developers and designers of gestural interfaces with a rapid prototyping tool that can be used to experientially evaluate designs.
-      </p>
-      <p>
-        <a class="btn btn-primary btn-xs" target="_blank" href="https://github.com/mbaytas/ma-thesis"><i class="fa fa-github"></i> GitHub</a>
-        <a class="btn btn-primary btn-xs" target="_blank" href="https://github.com/mbaytas/ma-thesis/releases"><i class="fa fa-file-pdf-o"></i> PDF</a>
-        <a class="btn btn-info btn-xs" target="_blank" href="#" data-toggle="modal" data-target="#bibtex-2014-thesis">BibTeX</a>
-      </p>
-      <div class="modal fade" id="bibtex-2014-thesis" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">BibTeX Entry for <strong>End-User Authoring of Mid-Air Gestural Interactions</strong></h4>
-            </div>
-            <div class="modal-body">
-              <pre>@mastersthesis{Baytas:2014:thesis,
-author = {Bayta\c{s}, Mehmet Ayd\in},
-year = {2014},
-title = {End-User Authoring of Mid-Air Gestural Interactions},
-institution = {Koç University},
-keywords = {Hotspotizer, gestural interaction, gesture authoring, visual programming, end-user development, interface prototyping, mid-air gestures, perceptual interaction, Kinect}
-}</pre>
-            </div>
-          </div>
-        </div>
-      </div><!-- .modal -->
-    </div>
-  </li>
+- Arçelik A.Ş. (2015-2018): "KUAR: Koç University &ndash; Arçelik Research Center for Creative Industries" (&#8378;8.500.000)
 
-  <li class="media">
-    <img class="media-object pull-left" src="img/2014-user-interface-paradigms.jpg" alt="User Interface Paradigms for Visually Authoring Mid-air Gestures: A Survey and a Provocation" width="160px">
-    <div class="media-body">
-      <h4 class="media-heading">
-        Mehmet Aydın Baytaş, Yücel Yemez and Oğuzhan Özcan (2014)<br>
-        <strong>User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation</strong><br>
-        in <em>Proceedings of the Workshop on Engineering Gestures for Multimodal Interfaces (EGMI 2014)</em>
-      </h4>
-      <p>
-        Gesture authoring tools enable the rapid and experiential prototyping of gesture-based interfaces. We survey visual authoring tools for mid-air gestures and identify three paradigms used for representing and manipulating gesture information: graphs, visual markup languages and timelines. We examine the strengths and limitations of these approaches and we propose a novel paradigm to authoring location-based mid-air gestures based on space discretization.
-      </p>
-      <p>
-        <a class="btn btn-primary btn-xs" target="_blank" href="http://ceur-ws.org/Vol-1190/paper2.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
-        <a class="btn btn-info btn-xs" target="_blank" href="#" data-toggle="modal" data-target="#bibtex-2014-egmi">BibTeX</a>
-      </p>
-      <div class="modal fade" id="bibtex-2014-egmi" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">BibTeX Entry for <strong>User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation</strong></h4>
-            </div>
-            <div class="modal-body">
-              <pre>@inproceedings{Baytas:2014:EGMI,
-author = {Bayta\c{s}, Mehmet Ayd\in and Yemez, Y\"{u}cel and \"{O}zcan, O\u{g}uzhan},
-year = {2014},
-title = {User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation},
-booktitle = {Proceedings of the Workshop on Engineering Gestures for Multimodal Interfaces},
-series = {EGMI 2014},
-pages = {8--14},
-editor = {Echthler, Florian and Hoste, Lode and Kammer, Dietrich and Signer, Beat and Vanacken, Davy},
-publisher = {Sun SITE Central Europe (CEUR)},
-address = {Aachen, DE},
-keywords = {gestural interaction, gesture authoring, visual programming, interface prototyping},
-}</pre>
-            </div>
-          </div>
-        </div>
-      </div><!-- .modal -->
-    </div>
-  </li>
+### as researcher with administrative responsibilities
 
-  <li class="media">
-    <img class="media-object pull-left" src="img/2012-rethinking-spherical-media.jpg" alt="Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases" width="160px">
-    <div class="media-body">
-      <h4 class="media-heading">
-        Oğuzhan Özcan, Ayça Ünlüer, Mehmet Aydın Baytaş and Barış Serim (2012)<br>
-        <strong>Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases</strong><br>
-        paper presented at the <em>ITS'12</em> workshop <em>Beyond Flat Displays: Towards Shaped and Deformable Interactive Surfaces</em>
-      </h4>
-      <p>
-        In this paper, we propose re-reading of past artifacts and traditions as a possible way to inspire the design of future media on non-flat displays. As an example, we illustrate how different narrative typologies found in ancient Greek vases, circular story reading, bottom-up time reading, abstract and realistic contrast reading and reading in alignment, can yield alternatives to interactive content specific to spherical media. We conclude by pointing out design considerations regarding the composition of graphic elements on spherical surfaces.
-      </p>
-      <p>
-        <a class="btn btn-primary btn-xs" target="_blank" href="http://displayworkshop.media.mit.edu/ITS2012/downloads/paper-Ozcan.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
-        <a class="btn btn-info btn-xs" target="_blank" href="#" data-toggle="modal" data-target="#bibtex-2012-its">BibTeX</a>
-      </p>
-      <div class="modal fade" id="bibtex-2012-its" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">BibTeX Entry for <strong>Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases</strong></h4>
-            </div>
-            <div class="modal-body">
-              <pre>@inproceedings{Ozcan:2012,
-author = {\"{O}zcan, O\u{g}uzhan and \”{U}nl\"{u}er, Ay\c{c}a and Bayta\c{s}, Mehmet Ayd\in and Serim, Bar\i\c{s}},
-year = {2012},
-title = {Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases},
-booktitle = {Beyond Flat Displays: Towards Shaped and Deformable Interactive Surfaces},
-keywords = {spherical displays, re-reading, story-telling},
-}</pre>
-            </div>
-          </div>
-        </div>
-      </div><!-- .modal -->
-    </div>
-  </li>
+- FP7-PEOPLE-2012-IAPP (2013-2014): “NaMoCap: Natural Motion Capture Process for Creative Industries” (Grant #324333, &euro;658.000)
+- TÜBİTAK 1001 (2012-2014): “Specifications on a Design Education Methodology for Gestural Interface Design" (Grant #112E056, &#8378;188.000)
 
-</ul><!--/ .media-list for publications -->
+### as researcher
 
-## reviewer for
-
-<ul class="list-unstyled">
-  <li>Nordic Conference on Human-Computer Interaction (NordiCHI)</li>
-  <li>ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS)</li>
-</ul>
+- KoçSistem (2012-2013): "Monitoring & Control Center Touchless Gesture 3D Interactive HMI” (&#8378;110.000)
 
 ## awards and scholarships
 
@@ -337,57 +143,9 @@ keywords = {spherical displays, re-reading, story-telling},
   <li>Higher Education Loans and Housing Agency (Yüksek Öğrenim Kredi ve Yurtlar Kurumu) Scholarship (2007&ndash;2011)</li>
 </ul>
 
-## externally funded projects
-
-### as coordinator
+## reviewer for
 
 <ul class="list-unstyled">
-  <li>
-    Arçelik A.Ş. (2015-2018): "KUAR: Koç University &ndash; Arçelik Research Center for Creative Industries" (&#8378;8.500.000)
-  </li>
+  <li>Nordic Conference on Human-Computer Interaction (NordiCHI)</li>
+  <li>ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS)</li>
 </ul>
-
-### as researcher with administrative responsibilities
-
-<ul class="list-unstyled">
-<li>
-  FP7-PEOPLE-2012-IAPP (2013-2014): “NaMoCap: Natural Motion Capture Process for Creative Industries” (Grant #324333, &euro;658.000)
-</li>
-<li>
-  TÜBİTAK 1001 (2012-2014): “Specifications on a Design Education Methodology for Gestural Interface Design" (Grant #112E056, &#8378;188.000)
-</li>
-</ul>
-
-### as researcher
-
-<ul class="list-unstyled">
-  <li>
-    KoçSistem (2012-2013): "Monitoring & Control Center Touchless Gesture 3D Interactive HMI” (&#8378;110.000)
-  </li>
-</ul>
-
-<style>
-  ul.list-labels li {
-    margin-bottom: 15px;
-  }
-  ul.list-labels li span.label {
-    font-size: 15px;
-    font-weight: normal;
-  }
-  .pre-bibtex {
-    display: none;
-  }
-</style>
-
-<script>
-  var closeBibtex = function() {
-    $(".pre-bibtex").slideUp("slow");
-    $(":not(.pre-bibtex)").unbind( "click", closeBibtex);
-  };
-  $(".btn-bibtex").click(function(event){
-    var bibtexId = $(this).attr('data-bibtex');
-    $("#pre-bibtex-"+bibtexId).slideDown("slow", function(){
-      $(":not(.pre-bibtex)").bind("click", closeBibtex);
-    });
-  });
-</script>
