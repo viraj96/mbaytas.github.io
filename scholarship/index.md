@@ -35,7 +35,7 @@ This indeed fails to produce a binary classification when $ w * x + b = 0 $:
 
 $ lim_(c -> oo) 1 / (1 + e ^ (-c(w * x - b))) = 1 / 2 $
 
-#### Determining the bitwise representation of a digit by adding an extra layer
+#### determining the bitwise representation of a digit by adding an extra layer
 
 We can begin figuring out the weights and biases for the new output layer by writing out what each digit will look like in 4-bit binary:
 
@@ -62,6 +62,16 @@ Thus, one set of weights to the new output layer can be:
     w_(2k)^n = {-10, -10,  10,  10, -10, -10,  10,  10, -10, -10}
     w_(3k)^n = {-10, -10, -10, -10,  10,  10,  10,  10, -10, -10}
     w_(4k)^n = {-10, -10, -10, -10, -10, -10, -10, -10,  10,  10}
+    
+    
+#### proof that gradient descent is the optimal strategy for minimizing a cost function
+
+See:
+
+- http://math.stackexchange.com/questions/1688662/tricky-proof-of-a-result-of-michael-nielsens-book-neural-networks-and-deep-lea
+- https://www.quora.com/How-does-one-prove-that-Gradient-Descent-is-the-optimal-strategy-for-minimizing-cost-function-using-Cauchy-Schwarz-inequality -> http://www.princeton.edu/~amirali/Public/Teaching/ORF363_COS323/F14/ORF363_COS323_F14_Lec8.pdf
+
+#### geometric interpretation of what gradient descent is doing in the one-dimensional case
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
