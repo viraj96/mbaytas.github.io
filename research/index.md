@@ -112,11 +112,11 @@ title: research
 
 ## publications
 
-- Baytaş, M.A., Göksun, T. & Özcan, O. The Perception of Live-sequenced Electronic Music via Hearing and Sight. *Proc. NIME '16.*
-- Baytaş, M. A., Yemez, Y., & Özcan, O. [Hotspotizer: end-user authoring of mid-air gestural interactions](http://dl.acm.org/citation.cfm?id=2639255). *Proc. NordiCHI '14.*
-- Baytaş, M.A. [End-User Authoring of Mid-Air Gestural Interactions](https://github.com/mbaytas/ma-thesis/releases). (MA thesis submitted to the Koç University Graduate School of Social Sciences and Humanities)
-- Baytaş, M. A., Yemez, Y., & Özcan, O. [User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation](http://ceur-ws.org/Vol-1190/paper2.pdf). *[Proc. EGMI 2014](http://ceur-ws.org/Vol-1190/).*
-- Özcan, O., Ünlüer, A., Baytaş, M.A. & Serim, B. [Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases](http://displayworkshop.media.mit.edu/ITS2012/downloads/paper-Ozcan.pdf). Paper presented at the *ITS '12* workshop *[Beyond Flat Displays: Towards Shaped and Deformable Interactive Surfaces](http://displayworkshop.media.mit.edu/ITS2012/)*.
+- Baytaş, M.A., Göksun, T. & Özcan, O. **The Perception of Live-sequenced Electronic Music via Hearing and Sight**. *Proc. NIME '16.*
+- Baytaş, M. A., Yemez, Y., & Özcan, O. **[Hotspotizer: end-user authoring of mid-air gestural interactions](http://dl.acm.org/citation.cfm?id=2639255)**. *Proc. NordiCHI '14.*
+- Baytaş, M.A. **[End-User Authoring of Mid-Air Gestural Interactions](https://github.com/mbaytas/ma-thesis/releases)**. (MA thesis submitted to the Koç University Graduate School of Social Sciences and Humanities)
+- Baytaş, M. A., Yemez, Y., & Özcan, O. **[User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation](http://ceur-ws.org/Vol-1190/paper2.pdf)**. *[Proc. EGMI 2014](http://ceur-ws.org/Vol-1190/).*
+- Özcan, O., Ünlüer, A., Baytaş, M.A. & Serim, B. **[Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases](http://displayworkshop.media.mit.edu/ITS2012/downloads/paper-Ozcan.pdf)**. Paper presented at the *ITS '12* workshop *[Beyond Flat Displays: Towards Shaped and Deformable Interactive Surfaces](http://displayworkshop.media.mit.edu/ITS2012/)*.
 
 ## externally funded projects
 
