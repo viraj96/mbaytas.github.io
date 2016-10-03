@@ -3,7 +3,7 @@ layout: default
 title: Hotspotizer
 ---
 
-# <small>[research](/research):</small> Hotspotizer
+# Hotspotizer
 
 ![Hotspotizer grid views](https://raw.githubusercontent.com/mbaytas/hotspotizer/master/_screenshots/hotspotizer_cover.jpg){: .img-responsive .center-block}
 
