@@ -9,12 +9,12 @@ title: research
 
 <div class="media">
   <div class="media-left">
-    <a href="/research/technoPerception/">
+    <a href="/research/techno-perception/">
       <img class="media-object" src="img/2016-perception.png" alt="Perception of Live-sequenced Music" style="width: 8em;">
     </a>
   </div>
   <div class="media-body">
-    <a href="/research/technoPerception/">
+    <a href="/research/techno-perception/">
       <h4 class="media-heading">
         The Perception of Live-sequenced Electronic Music via Hearing and Sight
       </h4>  
@@ -41,12 +41,12 @@ Hotspotizer allows users without computer programming skills to design, visualiz
 
 <div class="media">
   <div class="media-left">
-    <a href="/research/biosensorReadout/">
+    <a href="/research/biosensor-readout/">
       <img class="media-object" src="img/biosensor.png" alt="Biosensor UI" style="width: 8em;">
     </a>
   </div>
   <div class="media-body">
-    <a href="/research/biosensorReadout/">
+    <a href="/research/biosensor-readout/">
       <h4 class="media-heading">Readout Automation and GUI for an Experimental μ-cantilever-based MEMS Biosensor</h4>
     </a>
 OML's multi-analyte MEMS biosensor uses an array of coated μ-cantilevers that shift their resonant frequencies upon analyte mass accretion, allowing the detection of analyte concentrations. The cantilevers are magnetically actuated and their resonant frequencies are observed via interferometric optical readout. I designed and implemented a custom GUI and mechanism for setting up characterization experiments by directly manipulating the position of the chip relative to the laser beam. The system then traverses the μ-cantilever array and collects data without supervision.
@@ -55,12 +55,12 @@ OML's multi-analyte MEMS biosensor uses an array of coated μ-cantilevers that s
 
 <div class="media">
   <div class="media-left">
-    <a href="/research/laserWorkstation/">
+    <a href="/research/laser-workstation/">
       <img class="media-object" src="img/laser.jpg" alt="Laser Workstation" style="width: 8em;">
     </a>
   </div>
   <div class="media-body">
-    <a href="/research/laserWorkstation/">
+    <a href="/research/laser-workstation/">
       <h4 class="media-heading">Workstation for Laser Machining and Additive Manufacturing</h4>
     </a>
 We designed and built a versatile experimental laser manufacturing workstation with marking, cutting, engraving and powder sintering capabilities. The workstation utilizes a 10.6 μm CO2 laser coupled to a 3-axis CNC positioning system, as well as a galvo-driven 1064 nm Nd:YAG laser. The machine is controlled via a custom UI and back-end developed in MATLAB, and an Arduino. The software, which I partly developed, also supports toolpath and G-code generation from STL models. The Arduino and peripheral electronics, which I partly designed and realized, receive user input from the software and control the machine's industrial CO2 laser, AC servos, galvanometric scanner and powder sintering bed mechanism. The chassis is designed, mechanically analyzed, fabricated and hand-assembled by a team of three.
