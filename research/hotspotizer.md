@@ -9,9 +9,6 @@ title: Hotspotizer
   <iframe src="https://www.youtube.com/embed/zY2DqQbQCxw"></iframe>
 </div>
 
-![Hotspotizer Editor pane](https://raw.githubusercontent.com/mbaytas/hotspotizer/master/_screenshots/hs_kinect1.png)
-{: style="text-align: center"}
-
 Hotspotizer allows users without computer programming skills to design, visualize, save and recall sets of custom full-body gestures, for use with the Microsoft Kinect. These gestures are mapped to system-wide keyboard commands which can be used to control any application.
 
 Hotspotizer was my master's research project at the [Koç University Design Lab](http://designlab.ku.edu.tr). See [mbaytas/ma-thesis](https://github.com/mbaytas/ma-thesis) for the TeX source files and PDF of the thesis.
@@ -35,3 +32,7 @@ Hotspotizer has been featured on Microsoft's [Channel 9 Coding4Fun Kinect Projec
 
 ![Hotspotizer grid views](https://raw.githubusercontent.com/mbaytas/hotspotizer/master/_screenshots/hotspotizer_cover.jpg)
 {: style="text-align: center"}
+
+![Hotspotizer Editor pane](https://raw.githubusercontent.com/mbaytas/hotspotizer/master/_screenshots/hs_kinect1.png)
+{: style="text-align: center"}
+
