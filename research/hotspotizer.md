@@ -5,8 +5,9 @@ title: Hotspotizer
 
 # <small>[research](/research):</small> Hotspotizer
 
+<div class="embed-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zY2DqQbQCxw" frameborder="0" allowfullscreen></iframe>
-{: style="text-align: center"}
+</div>
 
 ![Hotspotizer Editor pane](https://raw.githubusercontent.com/mbaytas/hotspotizer/master/_screenshots/hs_kinect1.png)
 {: style="text-align: center"}
