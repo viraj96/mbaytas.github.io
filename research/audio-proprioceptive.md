@@ -5,7 +5,7 @@ title: audio-proprioceptive user interfaces
 
 # audio-proprioceptive user interfaces <small>(work in progress)</small>
 
-![audio-proprioceptive UIs]({{ site.baseurl }}/research/img/audioprop-temp.jpg)
+![audio-proprioceptive UIs]({{ site.baseurl }}/research/img/audioprop-temp.jpg){: .img-responsive .center-block}
 
 Gesture-based user interfaces that exploit proprioception require feedback to be delivered via other sensory channels. Sound is an always-available, fast-acting, and versatile medium for this feedback that does not require explicit attention from users, in addition to being computationally and materially cheap to implement.
 
