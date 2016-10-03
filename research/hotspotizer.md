@@ -31,8 +31,7 @@ Hotspotizer has been featured on Microsoft's [Channel 9 Coding4Fun Kinect Projec
 - [LaTeX source and PDF release for my MA thesis *End-User Authoring of Mid-Air Gestural Interactions*](https://github.com/mbaytas/ma-thesis)
 
 ![Hotspotizer grid views](https://raw.githubusercontent.com/mbaytas/hotspotizer/master/_screenshots/hotspotizer_cover.jpg)
-{: style="text-align: center"}
+{: .img-responsive}
 
 ![Hotspotizer Editor pane](https://raw.githubusercontent.com/mbaytas/hotspotizer/master/_screenshots/hs_kinect1.png)
-{: style="text-align: center"}
-
+{: .img-responsive}
