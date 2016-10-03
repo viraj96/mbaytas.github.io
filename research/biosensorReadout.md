@@ -5,7 +5,7 @@ title: Hotspotizer
 
 # <small>[research](/research)/</small> Readout Automation and GUI for an Experimental μ-cantilever-based MEMS Biosensor
 
-![MEMS Biosensor Readout Automation UI](../img/biosensor.png){: .img-responsive .center-block}
+![MEMS Biosensor Readout Automation UI](/img/biosensor.png){: .img-responsive .center-block}
 
 In 2011, as an undergraduate researcher in mechanical engineering, I worked on a MEMS biosensor project at Koç University's [Optical Microsystems Laboratory](http://mems.ku.edu.tr/).
 
