@@ -10,7 +10,7 @@ title: research
 <div class="media">
   <div class="media-left">
     <a href="/technoPerception/">
-      <img class="media-object pull-left" src="img/2016-perception.jpg" alt="Perception of Live-sequenced Music" width="160px">
+      <img class="media-object pull-left" src="img/2016-perception.png" alt="Perception of Live-sequenced Music" width="160px">
     </a>
   </div>
   <div class="media-body">
