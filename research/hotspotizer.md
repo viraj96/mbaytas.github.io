@@ -5,7 +5,7 @@ title: Hotspotizer
 
 # <small>[research](/research):</small> Hotspotizer
 
-<div class="embed-responsive">
+<div class="embed-responsive embed-responsive-16by9">
   <iframe  class="embed-responsive-item" src="https://www.youtube.com/embed/zY2DqQbQCxw"></iframe>
 </div>
 
