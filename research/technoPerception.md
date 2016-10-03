@@ -13,8 +13,9 @@ We were interested in the question of how *watching* a live-sequenced electronic
 
 We conducted an experiment where 30 participants heard, saw, or both heard and saw a live-sequenced techno music performance recording while they produced continuous judgments on their experience of tension. Eye tracking data was also recorded from participants who saw the visuals, to reveal aspects of the performance that influenced their tension judgments. We analysed the data to explore how auditory and visual components and the performer’s movements contribute to spectators’ experience of tension. Our results show that their perception of emotional intensity is consistent across hearing and sight, suggesting that gestures in “non-instrumental” live-sequencing can be a medium for expressive performance.
 
+![Apparatus]({{ site.baseurl }}/research/img/2016-perception.png){: .img-responsive .center-block}
+
 ## related publications
 
 - Baytaş, M.A., Göksun, T., and Özcan, O. (2016) The Perception of Live-sequenced Electronic Music via Hearing and Sight. In NIME '16.
 
-![Apparatus]({{ site.baseurl }}/research/img/2016-perception.png){: .img-responsive .center-block}
