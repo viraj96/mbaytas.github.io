@@ -6,7 +6,7 @@ title: Hotspotizer
 # <small>[research](/research):</small> Hotspotizer
 
 <div class="embed-responsive">
-  <iframe src="https://www.youtube.com/embed/zY2DqQbQCxw"></iframe>
+  <iframe  class="embed-responsive-item" src="https://www.youtube.com/embed/zY2DqQbQCxw"></iframe>
 </div>
 
 Hotspotizer allows users without computer programming skills to design, visualize, save and recall sets of custom full-body gestures, for use with the Microsoft Kinect. These gestures are mapped to system-wide keyboard commands which can be used to control any application.
