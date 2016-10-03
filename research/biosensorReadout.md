@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Hotspotizer
+title: Readout Automation and GUI for a MEMS Biosensor
 ---
 
-# <small>[research](research)</small>
 # Readout Automation and GUI for an Experimental μ-cantilever-based MEMS Biosensor
 
 ![MEMS Biosensor Readout Automation UI]({{ site.baseurl }}/research/img/biosensor.png){: .img-responsive .center-block}
