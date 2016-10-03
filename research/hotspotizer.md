@@ -13,7 +13,7 @@ Hotspotizer was my master's research project at the [Koç University Design Lab]
 
 Hotspotizer has been featured on Microsoft's [Channel 9 Coding4Fun Kinect Projects blog](http://channel9.msdn.com/coding4fun/kinect/Todays-hot-project-Hotspotizer).
 
-*This project was supported by the TÜBİTAK project *Specifications on a Design Education Methodology for Gestural Interface Design* (Grant #112E056,  2012-2014).*
+*This project was supported by the TÜBİTAK grant* Specifications on a Design Education Methodology for Gestural Interface Design *(Grant #112E056,  2012-2014).*
 
 <div class="row">
   <div class="col-md-8 col-md-offset-2">
