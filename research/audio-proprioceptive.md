@@ -13,4 +13,4 @@ Artifacts manifest solely through the combination of hearing and proprioception 
 
 We are conducting experiments to understand the experience of interacting with audio-proprioceptive artifacts, and to understand design considerations for user interfaces that exploit this modality.
 
-*Image by [mtytel](https://vimeo.com/tytel) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)*
+*image by [mtytel](https://vimeo.com/tytel) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)*
