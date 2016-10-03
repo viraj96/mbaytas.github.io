@@ -10,21 +10,24 @@ title: research
 <div class="media">
   <div class="media-left">
     <a href="/technoPerception/">
-      <img class="media-object" src="img/2016-perception.png" alt="Perception of Live-sequenced Music" width="160px">
+      <img class="media-object" src="img/2016-perception.png" alt="Perception of Live-sequenced Music" style="width: 5em;">
     </a>
   </div>
   <div class="media-body">
-    <a href="/technoPerception/">
-      <h4 class="media-heading">The Perception of Live-sequenced Electronic Music via Hearing and Sight</h4>
-    </a>
+    <h4 class="media-heading">
+      <a href="/technoPerception/">The Perception of Live-sequenced Electronic Music via Hearing and Sight
+      </a>
+    </h4>  
+    <p>
 As a prelude to an interaction design project for loop-based, live-sequenced electronic music performances with emotive and legible performer-device interactions; we were interested in the question of how watching a live-sequenced electronic music performance, compared to merely hearing the music, contributes to spectators’ experiences. We explored this via an experiment where participants heard, saw, or both heard and saw a live-sequenced techno music performance recording while they produced continuous judgments on their experience of tension. Our results show that their perception of emotional intensity is consistent across hearing and sight, suggesting that gestures in live-sequencing can be a medium for expressive performance.
+    </p>
   </div>
 </div>
 
 <div class="media">
   <div class="media-left">
     <a href="/hotspotizer/">
-      <img class="media-object" src="img/hotspotizer.jpg" alt="Hotspotizer" width="160px">
+      <img class="media-object" src="img/hotspotizer.jpg" alt="Hotspotizer" style="width: 5em;">
     </a>
   </div>
   <div class="media-body">
