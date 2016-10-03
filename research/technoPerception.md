@@ -5,7 +5,7 @@ title: The Perception of Live-sequenced Electronic Music via Hearing and Sight
 
 # The Perception of Live-sequenced Electronic Music via Hearing and Sight
 
-![Apparatus]({{ site.baseurl }}/research/img/2016-perception.png){: .img-responsive .center-block}
+![Tension Judgements and SOIs]({{ site.baseurl }}/research/img/meansWsois.png){: .img-responsive .center-block}
 
 This project was undertaken as a prelude to an interaction design project that aimed to develop user interfaces (hardware and software) for performing loop-based, live-sequenced electronic music (e.g. techno, house. etc.) with performer-device interactions that are *emotive* and *legible* to the audiences.
 
@@ -16,3 +16,5 @@ We conducted an experiment where 30 participants heard, saw, or both heard and s
 ## related publications
 
 - Baytaş, M.A., Göksun, T., and Özcan, O. (2016) The Perception of Live-sequenced Electronic Music via Hearing and Sight. In NIME '16.
+
+![Apparatus]({{ site.baseurl }}/research/img/2016-perception.png){: .img-responsive .center-block}
