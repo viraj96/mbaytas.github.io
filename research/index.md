@@ -9,12 +9,12 @@ title: research
 
 <div class="media">
   <div class="media-left">
-    <a href="/technoPerception/">
+    <a href="/research/technoPerception/">
       <img class="media-object" src="img/2016-perception.png" alt="Perception of Live-sequenced Music" style="width: 8em;">
     </a>
   </div>
   <div class="media-body">
-    <a href="/technoPerception/">
+    <a href="/research/technoPerception/">
       <h4 class="media-heading">
         The Perception of Live-sequenced Electronic Music via Hearing and Sight
       </h4>  
