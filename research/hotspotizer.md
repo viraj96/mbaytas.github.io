@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hotspotizer
+---
+
 # <small>research:</small> Hotspotizer
 
 ![Hotspotizer grid views](https://raw.githubusercontent.com/mbaytas/hotspotizer/master/_screenshots/hotspotizer_cover.jpg)
