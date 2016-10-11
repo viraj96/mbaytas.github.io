@@ -7,7 +7,7 @@ title: scholarship
 
 ## solutions for Exercises in Michael Nielsen's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
-### Chapter 1: Using neural nets to recognize handwritten digits
+### chapter 1: Using neural nets to recognize handwritten digits
       
 #### Sigmoid neurons simulating perceptrons, part I
       
@@ -122,6 +122,16 @@ $ = 1 / (1 + e ^ (-sum_j w_jx_j - b)) $
     Epoch 27 (0:00:03.117000): 8371 / 10000
     Epoch 28 (0:00:03.132000): 8359 / 10000
     Epoch 29 (0:00:03.123000): 8370 / 10000
+
+### chapter 2: How the backpropagation algorithm works
+
+#### proofs
+
+#### Backpropagation with a single modified neuron
+
+#### Backpropagation with linear neurons
+
+
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
