@@ -79,13 +79,13 @@ See:
 
 $ a' = sigma(wa + b) $
 
-$ = sigma([(w_(1,1), w_(1,2), ..., w_(1,k)), (w_(2,1), w_(2,2), ..., w_(2,k)), (..., ..., ..., ...), (w_(j,1), w_(j,2), ..., w_(j,k))] [(a_1), (a_2), (a_3), (a_4)] + b) $
+$ = sigma([(w_(1,1), w_(1,2), ..., w_(1,k)), (w_(2,1), w_(2,2), ..., w_(2,k)), (..., ..., ..., ...), (w_(j,1), w_(j,2), ..., w_(j,k))] [(a_1), (a_2), (...), (a_k)] + b) $
 
-$ = sigma(sum_j([w_(j,1), w_(j,2), ..., w_(j,k)] [(a_1), (a_2), ..., (a_k)]) + b) $
+$ = sigma(sum_j [w_(j,1), w_(j,2), ..., w_(j,k)] [(a_1), (a_2), (...), (a_k)] + b) $
 
-$ = sigma(sum_j(w_jx_j + b)) $
+$ = sigma(sum_j w_jx_j + b) $
 
-$ = 1 / (1 + e ^ (-sum_j(w_jx_j - b)) $
+$ = 1 / (1 + e ^ (-sum_j w_jx_j - b)) $
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
