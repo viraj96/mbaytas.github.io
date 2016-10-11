@@ -50,7 +50,7 @@ We can begin figuring out the weights and biases for the new output layer by wri
     8 -> 1 0 0 0
     9 -> 1 0 0 1
 
-Following http://datascience.stackexchange.com/questions/6639/:
+Following [http://datascience.stackexchange.com/questions/6639/](http://datascience.stackexchange.com/questions/6639/):
 
 > Each output neuron should have a positive weight between itself and output neurons which should be on to represent it, and a negative weight between itself and output neurons that should be off. The values should combine to be large enough to cleanly switch on or off, so I would use largish weights, such as +10 and -10.
 >
