@@ -110,17 +110,8 @@ We designed and built a versatile experimental laser manufacturing workstation w
 
 ## awards and scholarships
 
-<ul class="list-unstyled">
-  <li>Koç University GSSSH (Graduate School of Social Sciences and Humanities) Fellowship (2014&ndash;2018)</li>
-  <li>TÜBİTAK 1001 Scholarship (2012&ndash;2014, grant #112E056)</li>
-  <li>Vehbi Koç Scholarship (2010)</li>
-  <li>Koç University Merit Scholarship (2007&ndash;2012)</li>
-  <li>Higher Education Loans and Housing Agency (Yüksek Öğrenim Kredi ve Yurtlar Kurumu) Scholarship (2007&ndash;2011)</li>
-</ul>
-
-## reviewer for
-
-<ul class="list-unstyled">
-  <li>Nordic Conference on Human-Computer Interaction (NordiCHI)</li>
-  <li>ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS)</li>
-</ul>
+- Koç University GSSSH (Graduate School of Social Sciences and Humanities) Fellowship (2014&ndash;2018)
+- TÜBİTAK 1001 Scholarship (2012&ndash;2014, grant #112E056)
+- Vehbi Koç Scholarship (2010)
+- Koç University Merit Scholarship (2007&ndash;2012)
+- Higher Education Loans and Housing Agency (Yüksek Öğrenim Kredi ve Yurtlar Kurumu) Scholarship (2007&ndash;2011)
