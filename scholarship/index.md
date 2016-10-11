@@ -68,10 +68,24 @@ Thus, one set of weights to the new output layer can be:
 
 See:
 
-- http://math.stackexchange.com/questions/1688662/tricky-proof-of-a-result-of-michael-nielsens-book-neural-networks-and-deep-lea
-- https://www.quora.com/How-does-one-prove-that-Gradient-Descent-is-the-optimal-strategy-for-minimizing-cost-function-using-Cauchy-Schwarz-inequality -> http://www.princeton.edu/~amirali/Public/Teaching/ORF363_COS323/F14/ORF363_COS323_F14_Lec8.pdf
+- [http://math.stackexchange.com/questions/1688662/tricky-proof-of-a-result-of-michael-nielsens-book-neural-networks-and-deep-lea](http://math.stackexchange.com/questions/1688662/tricky-proof-of-a-result-of-michael-nielsens-book-neural-networks-and-deep-lea)
+- [https://www.quora.com/How-does-one-prove-that-Gradient-Descent-is-the-optimal-strategy-for-minimizing-cost-function-using-Cauchy-Schwarz-inequality](https://www.quora.com/How-does-one-prove-that-Gradient-Descent-is-the-optimal-strategy-for-minimizing-cost-function-using-Cauchy-Schwarz-inequality) -> [http://www.princeton.edu/~amirali/Public/Teaching/ORF363_COS323/F14/ORF363_COS323_F14_Lec8.pdf](http://www.princeton.edu/~amirali/Public/Teaching/ORF363_COS323/F14/ORF363_COS323_F14_Lec8.pdf)
 
 #### geometric interpretation of what gradient descent is doing in the one-dimensional case
+
+#### online learning
+
+#### activations vector in component form
+
+$ a' = sigma(wa + b) $
+
+$ = sigma([(w_(1,1), w_(1,2), ..., w_(1,k)), (w_(2,1), w_(2,2), ..., w_(2,k)), (..., ..., ..., ...), (w_(j,1), w_(j,2), ..., w_(j,k))] [(a_1), (a_2), (a_3), (a_4)] + b) $
+
+$ = sigma(sum_j([w_(j,1), w_(j,2), ..., w_(j,k)] [(a_1), (a_2), ..., (a_k)]) + b) $
+
+$ = sigma(sum_j(w_jx_j + b)) $
+
+$ = 1 / (1 + e ^ (-sum_j(w_jx_j - b)) $
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
