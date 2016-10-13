@@ -9,7 +9,7 @@ title: scholarship
 
 ### chapter 1: Using neural nets to recognize handwritten digits
       
-#### Sigmoid neurons simulating perceptrons, part I
+#### exercise: Sigmoid neurons simulating perceptrons, part I
       
 (2) in the textbook gives the 'perceptron rule' as:
 
@@ -21,7 +21,7 @@ $ output = {(0 if cw * x + cb <= 0), (1 if cw * x + cb > 0):} $
 
 Since the right side on both pieces of the equation is equal to zero, dividing both sides by $ c $ yields the original perceptron rule; hence, the behaviour of the network doesn't change when all weights and biases are multiplied with a positive constant.
 
-#### Sigmoid neurons simulating perceptrons, part II 
+#### exercise: Sigmoid neurons simulating perceptrons, part II 
 
 Following (3) and (4) in the textbook, the output of a sigmoid neuron can be written as:
 
@@ -35,7 +35,7 @@ This indeed fails to produce a binary classification when $ w * x + b = 0 $:
 
 $ lim_(c -> oo) 1 / (1 + e ^ (-c(w * x - b))) = 1 / 2 $
 
-#### determining the bitwise representation of a digit by adding an extra layer
+#### exercise: determining the bitwise representation of a digit by adding an extra layer
 
 We can begin figuring out the weights and biases for the new output layer by writing out what each digit will look like in 4-bit binary:
 
@@ -64,18 +64,18 @@ Thus, one set of weights to the new output layer can be:
     w_(4k)^n = {-10, -10, -10, -10, -10, -10, -10, -10,  10,  10}
     
     
-#### proof that gradient descent is the optimal strategy for minimizing a cost function
+#### exercise: proof that gradient descent is the optimal strategy for minimizing a cost function
 
 See:
 
 - [http://math.stackexchange.com/questions/1688662/tricky-proof-of-a-result-of-michael-nielsens-book-neural-networks-and-deep-lea](http://math.stackexchange.com/questions/1688662/tricky-proof-of-a-result-of-michael-nielsens-book-neural-networks-and-deep-lea)
 - [https://www.quora.com/How-does-one-prove-that-Gradient-Descent-is-the-optimal-strategy-for-minimizing-cost-function-using-Cauchy-Schwarz-inequality](https://www.quora.com/How-does-one-prove-that-Gradient-Descent-is-the-optimal-strategy-for-minimizing-cost-function-using-Cauchy-Schwarz-inequality) -> [http://www.princeton.edu/~amirali/Public/Teaching/ORF363_COS323/F14/ORF363_COS323_F14_Lec8.pdf](http://www.princeton.edu/~amirali/Public/Teaching/ORF363_COS323/F14/ORF363_COS323_F14_Lec8.pdf)
 
-#### geometric interpretation of what gradient descent is doing in the one-dimensional case
+#### exercise: geometric interpretation of what gradient descent is doing in the one-dimensional case
 
-#### online learning
+#### exercise: online learning
 
-#### activations vector in component form
+#### exercise: activations vector in component form
 
 $ a' = sigma(wa + b) $
 
@@ -87,7 +87,7 @@ $ = sigma(sum_j w_jx_j + b) $
 
 $ = 1 / (1 + e ^ (-sum_j w_jx_j - b)) $
 
-#### accuracy of network with only 2 layers
+#### exercise: accuracy of network with only 2 layers
 
     >>> net = network.Network([784, 10])
     >>> net.SGD(training_data, 30, 10, 3.0, test_data=test_data)
@@ -125,11 +125,18 @@ $ = 1 / (1 + e ^ (-sum_j w_jx_j - b)) $
 
 ### chapter 2: How the backpropagation algorithm works
 
-#### proofs
+#### problem: Alternate presentation of the equations of backpropagation
 
-#### Backpropagation with a single modified neuron
+Supposing there are N nodes in the output layer:
 
-#### Backpropagation with linear neurons
+$ delta_j^L = (delta C) / (delta a_j^L) delta'(z_j^L) $
+$ = [ [(delta C) / (delta a_1^L)] [(delta C) / (delta a_2^L)] [(delta C) / (delta a_3^L)] ... [(delta C) / (delta a_N^L)] ] $
+
+#### exercise: proofs
+
+#### exercise: Backpropagation with a single modified neuron
+
+#### exercise: Backpropagation with linear neurons
 
 
 
