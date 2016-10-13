@@ -127,7 +127,9 @@ $ = 1 / (1 + e ^ (-sum_j w_jx_j - b)) $
 
 #### problem: Alternate presentation of the equations of backpropagation
 
-Supposing there are N nodes in the output layer:
+##### (1)
+
+Supposing there are $ N $ nodes in the output layer:
 
 $ delta_j^L = (del C) / (del a_j^L) sigma′(z_j^L) $
 
@@ -136,6 +138,16 @@ $ delta^L = grad_a C o. sigma′(z^L) $
 $ = [ [(del C) / (del a_1^L)], [(del C) / (del a_2^L)], [(del C) / (del a_3^L)], [...], [(del C) / (del a_N^L)] ] o. [ [sigma′(z_1^L)], [sigma′(z_2^L)], [sigma′(z_3^L)], [...], [sigma′(z_N^L)] ] $
 
 $ = [ [sigma′(z_1^L), 0, 0, ..., 0], [0, sigma′(z_2^L), 0, ..., 0], [0, 0, sigma′(z_3^L), ..., 0], [..., ..., ..., ..., ...], [0, 0, 0, ..., sigma′(z_N^L)] ] [ [(del C) / (del a_1^L)], [(del C) / (del a_2^L)], [(del C) / (del a_3^L)], [...], [(del C) / (del a_N^L)] ] $
+
+$ = Sigma′(z^L) grad_a C $
+
+##### (2)
+
+Supposing there are $ N $ nodes in layer $ l $ and $ M $ nodes in layer $ l + 1 $:
+
+$ delta^l = ((w^(l+1))^T delta^(l+1)) o. sigma′(z^l) $
+
+$ = [(w_(1,1)^(l+1), w_(1,2)^(l+1), ..., w_(1,k)^(l+1)), (w_(2,1)^(l+1), w_(2,2)^(l+1), ..., w_(2,k)^(l+1)), (..., ..., ..., ...), (w_(j,1)^(l+1), w_(j,2)^(l+1), ..., w_(j,k)^(l+1))]^T ... $
 
 #### exercise: proofs
 
