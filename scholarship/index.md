@@ -129,8 +129,9 @@ $ = 1 / (1 + e ^ (-sum_j w_jx_j - b)) $
 
 Supposing there are N nodes in the output layer:
 
-$ delta_j^L = (delta C) / (delta a_j^L) delta'(z_j^L) $
-$ = [ [(delta C) / (delta a_1^L)] [(delta C) / (delta a_2^L)] [(delta C) / (delta a_3^L)] ... [(delta C) / (delta a_N^L)] ] $
+$ delta_j^L = (del C) / (del a_j^L) sigma'(z_j^L) $
+$ = [ [(del C) / (del a_1^L)], [(del C) / (del a_2^L)], [(del C) / (del a_3^L)], [...], [(del C) / (del a_N^L)] ] o. [ [sigma'(z_1^L)], [sigma'(z_2^L)], [sigma'(z_3^L)], [...], [sigma'(z_N^L)] ] $
+$ = $
 
 #### exercise: proofs
 
