@@ -165,3 +165,9 @@ $ = [(w_(1,1)^(l+1), w_(1,2)^(l+1), ..., w_(1,k)^(l+1)), (w_(2,1)^(l+1), w_(2,2)
   });
 </script>
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
+
+<style>
+p, pre, ul {
+  margin: 2em 0;
+}
+</style>
