@@ -143,7 +143,7 @@ $ = Sigma′(z^L) grad_a C $
 
 ##### (2)
 
-Supposing there are $ N $ nodes in layer $ l $ and $ M $ nodes in layer $ l + 1 $:
+Supposing there are $ k $ nodes in layer $ l $ and $ j $ nodes in layer $ l + 1 $:
 
 $ delta^l = ((w^(l+1))^T delta^(l+1)) o. sigma′(z^l) $
 
