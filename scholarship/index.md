@@ -53,7 +53,7 @@ We can begin figuring out the weights and biases for the new output layer by wri
 Following [http://datascience.stackexchange.com/questions/6639/](http://datascience.stackexchange.com/questions/6639/):
 
 > Each output neuron should have a positive weight between itself and output neurons which should be on to represent it, and a negative weight between itself and output neurons that should be off. The values should combine to be large enough to cleanly switch on or off, so I would use largish weights, such as +10 and -10.
->
+
 > If you have sigmoid activations here, the bias is not that relevant. You just want to simply saturate each neuron towards on or off.
 
 Thus, one set of weights to the new output layer can be:
@@ -167,7 +167,7 @@ $ = [(w_(1,1)^(l+1), w_(1,2)^(l+1), ..., w_(1,k)^(l+1)), (w_(2,1)^(l+1), w_(2,2)
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
 
 <style>
-p, pre, ul, h1, h2, h3, h4, h5 {
+p, pre, ul, h3, h4, h5 {
   margin: 2em 0;
 }
 </style>
