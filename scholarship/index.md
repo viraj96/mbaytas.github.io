@@ -129,13 +129,13 @@ $ = 1 / (1 + e ^ (-sum_j w_jx_j - b)) $
 
 Supposing there are N nodes in the output layer:
 
-$ delta_j^L = (del C) / (del a_j^L) sigma'(z_j^L) $
+$ delta_j^L = (del C) / (del a_j^L) sigma′(z_j^L) $
 
-$ delta^L = grad_a C o. sigma'(z^L) $
+$ delta^L = grad_a C o. sigma′(z^L) $
 
-$ = [ [(del C) / (del a_1^L)], [(del C) / (del a_2^L)], [(del C) / (del a_3^L)], [...], [(del C) / (del a_N^L)] ] o. [ [sigma'(z_1^L)], [sigma'(z_2^L)], [sigma'(z_3^L)], [...], [sigma'(z_N^L)] ] $
+$ = [ [(del C) / (del a_1^L)], [(del C) / (del a_2^L)], [(del C) / (del a_3^L)], [...], [(del C) / (del a_N^L)] ] o. [ [sigma′(z_1^L)], [sigma′(z_2^L)], [sigma′(z_3^L)], [...], [sigma′(z_N^L)] ] $
 
-$ = [ [sigma'(z_1^L), 0, 0, ..., 0], [0, sigma'(z_1^L), 0, ..., 0], [0, 0, sigma'(z_1^L), ..., 0], [..., ..., ..., ..., ...], [0, 0, 0, ..., sigma'(z_1^L)] ] [ [(del C) / (del a_1^L)], [(del C) / (del a_2^L)], [(del C) / (del a_3^L)], [...], [(del C) / (del a_N^L)] ] $
+$ = [ [sigma′(z_1^L), 0, 0, ..., 0], [0, sigma′(z_2^L), 0, ..., 0], [0, 0, sigma′(z_3^L), ..., 0], [..., ..., ..., ..., ...], [0, 0, 0, ..., sigma′(z_N^L)] ] [ [(del C) / (del a_1^L)], [(del C) / (del a_2^L)], [(del C) / (del a_3^L)], [...], [(del C) / (del a_N^L)] ] $
 
 #### exercise: proofs
 
