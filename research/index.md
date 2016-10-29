@@ -87,7 +87,7 @@ We designed and built a versatile experimental laser manufacturing workstation w
 
 ## publications
 
-- Baytaş, M.A., Göksun, T. & Özcan, O. **The Perception of Live-sequenced Electronic Music via Hearing and Sight**. *Proc. NIME '16.*
+- Baytaş, M.A., Göksun, T. & Özcan, O. **[The Perception of Live-sequenced Electronic Music via Hearing and Sight](http://www.nime.org/proceedings/2016/nime2016_paper0040.pdf)**. *Proc. NIME '16.*
 - Baytaş, M. A., Yemez, Y., & Özcan, O. **[Hotspotizer: end-user authoring of mid-air gestural interactions](http://dl.acm.org/citation.cfm?id=2639255)**. *Proc. NordiCHI '14.*
 - Baytaş, M.A. **[End-User Authoring of Mid-Air Gestural Interactions](https://github.com/mbaytas/ma-thesis/releases)**. (MA thesis submitted to the Koç University Graduate School of Social Sciences and Humanities)
 - Baytaş, M. A., Yemez, Y., & Özcan, O. **[User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation](http://ceur-ws.org/Vol-1190/paper2.pdf)**. *Proc. EGMI 2014.*
