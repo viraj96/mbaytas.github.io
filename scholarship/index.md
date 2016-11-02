@@ -155,19 +155,30 @@ $ = [(w_(1,1)^(l+1), w_(1,2)^(l+1), ..., w_(1,k)^(l+1)), (w_(2,1)^(l+1), w_(2,2)
 
 #### exercise: Backpropagation with linear neurons
 
-
-
 <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    asciimath2jax: {
-      delimiters: [ ['$','$'] ]
-    },
-  });
+MathJax.Hub.Config({
+  asciimath2jax: {
+    delimiters: [ ['$','$'] ]
+  },
+});
 </script>
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
 
-<style>
-p, pre, ul, h3, h4, h5 {
-  margin: 2em 0;
-}
-</style>
+<script>
+$('h4').each(function(){
+  var n = $(this).next(); 
+
+  $(this).replaceWith("<div class='panel-heading panelall'><h4 class="panel-title">" + $(this).text() + "</h4></div>");
+
+  while (n.is('p, pre, blockquote, ul, ol, h5, div.highlighter-rouge')) {
+    $(n).addClass("panelall panelbody");
+    n = $(n).next();
+  }
+
+  $(".panelall").wrapAll("<div class='panel panel-default'></div>");
+  $(".panelbody").wrapAll("<div class='panel-body'></div>");
+
+  $(".panelall").removeClass("panelall");
+  $(".panelbody").removeClass("panelbody");
+});
+</script>
