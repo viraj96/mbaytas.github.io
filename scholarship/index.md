@@ -169,7 +169,7 @@ $( document ).ready(function() {
   $('h4').each(function(){
     var n = $(this).next(); 
 
-    $(this).replaceWith("<div class='panel-heading panelall'><h4 class="panel-title">" + $(this).text() + "</h4></div>");
+    $(this).replaceWith("<div class='panel-heading panelall'><h4 class='panel-title'>" + $(this).text() + "</h4></div>");
 
     while (n.is('p, pre, blockquote, ul, ol, h5, div.highlighter-rouge')) {
       $(n).addClass("panelall panelbody");
