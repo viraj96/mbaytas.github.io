@@ -165,20 +165,22 @@ MathJax.Hub.Config({
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
 
 <script>
-$('h4').each(function(){
-  var n = $(this).next(); 
+$( document ).ready(function() {
+  $('h4').each(function(){
+    var n = $(this).next(); 
 
-  $(this).replaceWith("<div class='panel-heading panelall'><h4 class="panel-title">" + $(this).text() + "</h4></div>");
+    $(this).replaceWith("<div class='panel-heading panelall'><h4 class="panel-title">" + $(this).text() + "</h4></div>");
 
-  while (n.is('p, pre, blockquote, ul, ol, h5, div.highlighter-rouge')) {
-    $(n).addClass("panelall panelbody");
-    n = $(n).next();
-  }
+    while (n.is('p, pre, blockquote, ul, ol, h5, div.highlighter-rouge')) {
+      $(n).addClass("panelall panelbody");
+      n = $(n).next();
+    }
 
-  $(".panelall").wrapAll("<div class='panel panel-default'></div>");
-  $(".panelbody").wrapAll("<div class='panel-body'></div>");
+    $(".panelall").wrapAll("<div class='panel panel-default'></div>");
+    $(".panelbody").wrapAll("<div class='panel-body'></div>");
 
-  $(".panelall").removeClass("panelall");
-  $(".panelbody").removeClass("panelbody");
+    $(".panelall").removeClass("panelall");
+    $(".panelbody").removeClass("panelbody");
+  });
 });
 </script>
