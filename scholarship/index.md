@@ -33,7 +33,7 @@ $ lim_(c -> oo) 1 / (1 + e ^ (-c(w * x + b))) = {(0 if w * x + b < 0), (1 if w *
 
 This indeed fails to produce a binary classification when $ w * x + b = 0 $:
 
-$ lim_(c -> oo) 1 / (1 + e ^ (-c(w * x - b))) = 1 / 2 $
+$ lim_(c -> oo) 1 / (1 + e ^ (-c(0))) = 1 / 2 $
 
 #### exercise: determining the bitwise representation of a digit by adding an extra layer
 
