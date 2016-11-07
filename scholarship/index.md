@@ -50,7 +50,7 @@ We can begin figuring out the weights and biases for the new output layer by wri
     8 -> 1 0 0 0
     9 -> 1 0 0 1
 
-Following [http://datascience.stackexchange.com/questions/6639/]:
+Following <http://datascience.stackexchange.com/questions/6639/>:
 
 > Each output neuron should have a positive weight between itself and output neurons which should be on to represent it, and a negative weight between itself and output neurons that should be off. The values should combine to be large enough to cleanly switch on or off, so I would use largish weights, such as +10 and -10.
 
@@ -68,8 +68,9 @@ Thus, one set of weights to the new output layer can be:
 
 See:
 
-- [http://math.stackexchange.com/questions/1688662/tricky-proof-of-a-result-of-michael-nielsens-book-neural-networks-and-deep-lea]
-- [https://www.quora.com/How-does-one-prove-that-Gradient-Descent-is-the-optimal-strategy-for-minimizing-cost-function-using-Cauchy-Schwarz-inequality] -> [http://www.princeton.edu/~amirali/Public/Teaching/ORF363_COS323/F14/ORF363_COS323_F14_Lec8.pdf]
+- <http://math.stackexchange.com/questions/1688662/tricky-proof-of-a-result-of-michael-nielsens-book-neural-networks-and-deep-lea>
+- <https://www.quora.com/How-does-one-prove-that-Gradient-Descent-is-the-optimal-strategy-for-minimizing-cost-function-using-Cauchy-Schwarz-inequality>
+- <http://www.princeton.edu/~amirali/Public/Teaching/ORF363_COS323/F14/ORF363_COS323_F14_Lec8.pdf>
 
 #### exercise: geometric interpretation of what gradient descent is doing in the one-dimensional case
 
@@ -85,10 +86,10 @@ $ Delta C = -eta ((dC)/(dx))^2 $
 
 See:
 
-- [https://www.quora.com/What-are-the-pros-and-cons-of-offline-vs-online-learning]]
-- [http://stats.stackexchange.com/questions/70761/what-is-the-difference-between-online-and-batch-learning]
-- [http://stats.stackexchange.com/questions/897/online-vs-offline-learning]
-- [http://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent]
+- <https://www.quora.com/What-are-the-pros-and-cons-of-offline-vs-online-learning>
+- <http://stats.stackexchange.com/questions/70761/what-is-the-difference-between-online-and-batch-learning>
+- <http://stats.stackexchange.com/questions/897/online-vs-offline-learning>
+- <http://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent>
 
 #### exercise: activations vector in component form
 
