@@ -75,11 +75,11 @@ See:
 
 When CC is a function of just one variable, the change $ Delta C $ in $ C $ produced by a small change $ Delta x $ in $ x $ is:
 
-$ Delta C = (dC / dx) Delta x $
+$ Delta C = (dC)/(dx) Delta x $
 
-Choosing $ Delta x = - eta (dC / dx) $:
+Choosing $ Delta x = - eta (dC)/(dx) $:
 
-$ Delta C = -eta (dC / dx)^2 $
+$ Delta C = -eta ((dC)/(dx))^2 $
  
 #### exercise: online learning
 
