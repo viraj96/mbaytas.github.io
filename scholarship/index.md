@@ -83,6 +83,13 @@ $ Delta C = -eta ((dC)/(dx))^2 $
  
 #### exercise: online learning
 
+See:
+
+- https://www.quora.com/What-are-the-pros-and-cons-of-offline-vs-online-learning
+- http://stats.stackexchange.com/questions/70761/what-is-the-difference-between-online-and-batch-learning
+- http://stats.stackexchange.com/questions/897/online-vs-offline-learning
+- http://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent
+
 #### exercise: activations vector in component form
 
 $ a' = sigma(wa + b) $
