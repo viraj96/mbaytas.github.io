@@ -151,9 +151,28 @@ $ delta_j^L = (del C) / (del a_j^L) sigma′(z_j^L) $
 
 $ delta^L = grad_a C o. sigma′(z^L) $
 
-$ = [ [(del C) / (del a_1^L)], [(del C) / (del a_2^L)], [(del C) / (del a_3^L)], [...], [(del C) / (del a_N^L)] ] o. [ [sigma′(z_1^L)], [sigma′(z_2^L)], [sigma′(z_3^L)], [...], [sigma′(z_N^L)] ] $
+$ = [ [(del C) / (del a_1^L)],
+      [(del C) / (del a_2^L)],
+      [(del C) / (del a_3^L)],
+      [...],
+      [(del C) / (del a_N^L)] ]
+    o.
+    [ [sigma′(z_1^L)],
+      [sigma′(z_2^L)],
+      [sigma′(z_3^L)],
+      [...],
+      [sigma′(z_N^L)] ] $
 
-$ = [ [sigma′(z_1^L), 0, 0, ..., 0], [0, sigma′(z_2^L), 0, ..., 0], [0, 0, sigma′(z_3^L), ..., 0], [..., ..., ..., ..., ...], [0, 0, 0, ..., sigma′(z_N^L)] ] [ [(del C) / (del a_1^L)], [(del C) / (del a_2^L)], [(del C) / (del a_3^L)], [...], [(del C) / (del a_N^L)] ] $
+$ = [ [sigma′(z_1^L), 0, 0, ..., 0],
+      [0, sigma′(z_2^L), 0, ..., 0],
+      [0, 0, sigma′(z_3^L), ..., 0],
+      [..., ..., ..., ..., ...],
+      [0, 0, 0, ..., sigma′(z_N^L)] ]
+    [ [(del C) / (del a_1^L)],
+      [(del C) / (del a_2^L)],
+      [(del C) / (del a_3^L)],
+      [...],
+      [(del C) / (del a_N^L)] ] $
 
 $ = Sigma′(z^L) grad_a C $
 
@@ -163,14 +182,22 @@ Supposing there are $ k $ nodes in layer $ l $ and $ j $ nodes in layer $ l + 1 
 
 $ delta^l = ((w^(l+1))^T delta^(l+1)) o. sigma′(z^l) $
 
-$ = [ [w_(1,1)^(l+1), w_(2,1)^(l+1), w_(3,1)^(l+1), ..., w_(j,1)^(l+1)],
-      [w_(1,2)^(l+1), w_(2,2)^(l+1), w_(3,2)^(l+1), ..., w_(j,2)^(l+1)],
-      [w_(1,3)^(l+1), w_(2,3)^(l+1), w_(3,3)^(l+1), ..., w_(j,3)^(l+1)],
-      [..., ..., ..., ..., ...],
-      [w_(1,k)^(l+1), w_(2,k)^(l+1), w_(3,k)^(l+1), ..., w_(j,k)^(l+1)] ]
-    [ [delta_1^(l+1)], [delta_2^(l+1)], [delta_3^(l+1)], [...], [delta_j^(l+1)] ]
+$ = ((w^(l+1))^T delta^(l+1))
     o.
     [ [sigma′(z_1^l)], [sigma′(z_2^l)], [sigma′(z_3^l)], [...], [sigma′(z_N^l)] ] $
+    
+$ = [ [sigma′(z_1^l), 0, 0, ..., 0],
+      [0, sigma′(z_2^l), 0, ..., 0],
+      [0, 0, sigma′(z_3^l), ..., 0],
+      [..., ..., ..., ..., ...],
+      [0, 0, 0, ..., sigma′(z_k^l)] ]
+    ((w^(l+1))^T delta^(l+1)) $
+    
+$ = Sigma′(z^l) (w^(l+1))^T delta^(l+1) $
+
+##### (3)
+
+...
 
 #### exercise: proofs
 
