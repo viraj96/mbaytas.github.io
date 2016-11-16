@@ -9,14 +9,9 @@ title: music
 
 ### links
 
-<ul class="list-unstyled">
-  <li>
-    <a href="http://www.facebook.com/minaplex" target="_blank">Facebook Page</a>
-  </li>
-  <li>
-    <a href="https://www.soundcloud.com/minaplex" target="_blank">SoundCloud</a>
-  </li>
-</ul>
+[Facebook Page](http://www.facebook.com/minaplex)
+
+[SoundCloud](https://www.soundcloud.com/minaplex)
 
 ## with Mr. Mina
 
@@ -48,20 +43,12 @@ title: music
 
 ### links
 
-<ul class="list-unstyled">
-  <li>
-    <a href="http://www.mrminaband.com/" target="_blank">official website</a>
-  </li>
-  <li>
-    <a href="http://www.facebook.com/mrminaband" target="_blank">Facebook Page</a>
-  </li>
-  <li>
-    <a href="http://www.instagram.com/mrminaband" target="_blank">Instagram</a>
-  </li>
-  <li>
-    <a href="http://www.twitter.com/mrminaband" target="_blank">Twitter</a>
-  </li>
-  <li>
-    <a href="http://www.youtube.com/mrminaband" target="_blank">YouTube</a>
-  </li>
-</ul>
+[official website](http://www.mrminaband.com/)
+
+[Facebook page](http://www.facebook.com/mrminaband)
+
+[Instagram](http://www.instagram.com/mrminaband)
+
+[Twitter](http://www.twitter.com/mrminaband)
+
+[YouTube](http://www.youtube.com/mrminaband)
