@@ -87,31 +87,42 @@ We designed and built a versatile experimental laser manufacturing workstation w
 
 ## publications
 
-- Baytaş, M.A., Göksun, T. & Özcan, O. **[The Perception of Live-sequenced Electronic Music via Hearing and Sight](http://www.nime.org/proceedings/2016/nime2016_paper0040.pdf)**. *Proc. NIME '16.*
-- Baytaş, M. A., Yemez, Y., & Özcan, O. **[Hotspotizer: end-user authoring of mid-air gestural interactions](http://dl.acm.org/citation.cfm?id=2639255)**. *Proc. NordiCHI '14.*
-- Baytaş, M.A. **[End-User Authoring of Mid-Air Gestural Interactions](https://github.com/mbaytas/ma-thesis/releases)**. (MA thesis submitted to the Koç University Graduate School of Social Sciences and Humanities)
-- Baytaş, M. A., Yemez, Y., & Özcan, O. **[User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation](http://ceur-ws.org/Vol-1190/paper2.pdf)**. *Proc. EGMI 2014.*
-- Özcan, O., Ünlüer, A., Baytaş, M.A. & Serim, B. **[Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases](http://displayworkshop.media.mit.edu/ITS2012/downloads/paper-Ozcan.pdf)**. Paper presented at the *ITS '12* workshop *Beyond Flat Displays: Towards Shaped and Deformable Interactive Surfaces*.
+Ünlüer, A.A., Baytaş, M.A., Buruk, O.T., Yemez, Y., Cemalcılar, Z., Özcan, O. (forthcoming). **The effectiveness of mime-based creative drama education for exploring gesture-based user interfaces**. *The International Journal of Art & Design Education*.
+
+Baytaş, M.A., Göksun, T., Özcan, O. (2016) **[The Perception of Live-sequenced Electronic Music via Hearing and Sight](http://www.nime.org/proceedings/2016/nime2016_paper0040.pdf)**. *Proc. NIME '16.*
+
+Baytaş, M. A., Yemez, Y., Özcan, O. (2014) **[Hotspotizer: end-user authoring of mid-air gestural interactions](http://dl.acm.org/citation.cfm?id=2639255)**. *Proc. NordiCHI '14.*
+
+Baytaş, M.A. (2014) **[End-User Authoring of Mid-Air Gestural Interactions](https://github.com/mbaytas/ma-thesis/releases)**. (MA thesis submitted to the Koç University Graduate School of Social Sciences and Humanities)
+
+Baytaş, M. A., Yemez, Y., Özcan, O. (2014) **[User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation](http://ceur-ws.org/Vol-1190/paper2.pdf)**. *Proc. EGMI 2014.*
+
+Özcan, O., Ünlüer, A., Baytaş, M.A., Serim, B. (2012) **[Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases](http://displayworkshop.media.mit.edu/ITS2012/downloads/paper-Ozcan.pdf)**. Paper presented at the *ITS '12* workshop *Beyond Flat Displays: Towards Shaped and Deformable Interactive Surfaces*.
 
 ## externally funded projects
 
 ### as coordinator
 
-- Arçelik A.Ş. (2015-2018): "KUAR: Koç University &ndash; Arçelik Research Center for Creative Industries" (&#8378;8.500.000)
+Arçelik A.Ş. (2015-2018): "KUAR: Koç University &ndash; Arçelik Research Center for Creative Industries" (&#8378;8.500.000)
 
 ### as researcher with administrative responsibilities
 
-- FP7-PEOPLE-2012-IAPP (2013-2014): “NaMoCap: Natural Motion Capture Process for Creative Industries” (Grant #324333, &euro;658.000)
-- TÜBİTAK 1001 (2012-2014): “Specifications on a Design Education Methodology for Gestural Interface Design" (Grant #112E056, &#8378;188.000)
+FP7-PEOPLE-2012-IAPP (2013-2014): “NaMoCap: Natural Motion Capture Process for Creative Industries” (Grant #324333, &euro;658.000)
+
+TÜBİTAK 1001 (2012-2014): “Specifications on a Design Education Methodology for Gestural Interface Design" (Grant #112E056, &#8378;188.000)
 
 ### as researcher
 
-- KoçSistem (2012-2013): "Monitoring & Control Center Touchless Gesture 3D Interactive HMI” (&#8378;110.000)
+KoçSistem (2012-2013): "Monitoring & Control Center Touchless Gesture 3D Interactive HMI” (&#8378;110.000)
 
 ## awards and scholarships
 
-- Koç University GSSSH (Graduate School of Social Sciences and Humanities) Fellowship (2014&ndash;2018)
-- TÜBİTAK 1001 Scholarship (2012&ndash;2014, grant #112E056)
-- Vehbi Koç Scholarship (2010)
-- Koç University Merit Scholarship (2007&ndash;2012)
-- Higher Education Loans and Housing Agency (Yüksek Öğrenim Kredi ve Yurtlar Kurumu) Scholarship (2007&ndash;2011)
+Koç University GSSSH (Graduate School of Social Sciences and Humanities) Fellowship (2014&ndash;2018)
+
+TÜBİTAK 1001 Scholarship (2012&ndash;2014, grant #112E056)
+
+Vehbi Koç Scholarship (2010)
+
+Koç University Merit Scholarship (2007&ndash;2012)
+
+Higher Education Loans and Housing Agency (Yüksek Öğrenim Kredi ve Yurtlar Kurumu) Scholarship (2007&ndash;2011)
