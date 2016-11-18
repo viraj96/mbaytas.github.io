@@ -87,7 +87,7 @@ We designed and built a versatile experimental laser manufacturing workstation w
 
 ## publications
 
-Ünlüer, A.A., Baytaş, M.A., Buruk, O.T., Yemez, Y., Cemalcılar, Z., Özcan, O. (forthcoming). **The effectiveness of mime-based creative drama education for exploring gesture-based user interfaces**. *The International Journal of Art & Design Education*.
+Ünlüer, A.A., Baytaş, M.A., Buruk, O.T., Yemez, Y., Cemalcılar, Z., Özcan, O. (forthcoming) **The effectiveness of mime-based creative drama education for exploring gesture-based user interfaces**. *The International Journal of Art & Design Education*.
 
 Baytaş, M.A., Göksun, T., Özcan, O. (2016) **[The Perception of Live-sequenced Electronic Music via Hearing and Sight](http://www.nime.org/proceedings/2016/nime2016_paper0040.pdf)**. *Proc. NIME '16.*
 
