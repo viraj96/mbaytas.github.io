@@ -11,7 +11,7 @@ title: research
 <div class="media">
   <div class="media-left">
     <a href="/research/mocap/">
-      <img class="media-object" src="img/mocap-temp-sq.jpg" alt="understanding interpersonal communication through motion capture" style="width: 8em;">
+      <img class="media-object" src="img/mocap-temp.png" alt="understanding interpersonal communication through motion capture" style="width: 8em;">
     </a>
   </div>
   <div class="media-body">
