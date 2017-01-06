@@ -7,6 +7,25 @@ title: research
 
 ## projects
 
+
+<div class="media">
+  <div class="media-left">
+    <a href="/research/mocap/">
+      <img class="media-object" src="img/mocap-temp-sq.jpg" alt="understanding interpersonal communication through motion capture" style="width: 8em;">
+    </a>
+  </div>
+  <div class="media-body">
+    <a href="/research/mocap/">
+      <h4 class="media-heading">
+        understanding interpersonal communication through motion capture
+      </h4>  
+    </a>
+    <p>
+The goal of this project is to study and propose novel motion tracking technologies to efficiently perceive human gesture, initially focusing on supporting research in linguistics and deictic communication. This involves exploring solutions to specific issues that researchers encounter. Beyond addressing the needs of linguistics researchers, knowledge created through user-centered design processes will inform HCI artifacts for home and work contexts.
+    </p>
+  </div>
+</div>
+
 <div class="media">
   <div class="media-left">
     <a href="/research/audio-proprioceptive/">
