@@ -5,6 +5,14 @@ title: research
 
 # research
 
+## interests
+
+human-computer interaction, interaction design
+
+computer vision, motion capture, machine learning, gestural interaction, sound in user interfaces
+
+Currently I am particularly interested in experimenting with deep learning applications on motion capture and other time series data for enabling novel user interfaces. I welcome opportunities to learn about and collaborate on this topic.
+
 ## projects
 
 
