@@ -106,15 +106,21 @@ We designed and built a versatile experimental laser manufacturing workstation w
 
 ## publications
 
+### journal articles
+
 Ünlüer, A.A., Baytaş, M.A., Buruk, O.T., Yemez, Y., Cemalcılar, Z., Özcan, O. (forthcoming) **The effectiveness of mime-based creative drama education for exploring gesture-based user interfaces**. *The International Journal of Art & Design Education*.
 
-Baytaş, M.A., Göksun, T., Özcan, O. (2016) **[The Perception of Live-sequenced Electronic Music via Hearing and Sight](http://www.nime.org/proceedings/2016/nime2016_paper0040.pdf)**. *Proc. NIME '16.*
+### conference papers
 
-Baytaş, M. A., Yemez, Y., Özcan, O. (2014) **[Hotspotizer: end-user authoring of mid-air gestural interactions](http://dl.acm.org/citation.cfm?id=2639255)**. *Proc. NordiCHI '14.*
+Baytaş, M.A., Göksun, T., Özcan, O. (2016) **[The Perception of Live-sequenced Electronic Music via Hearing and Sight](http://www.nime.org/proceedings/2016/nime2016_paper0040.pdf)**. *Proc. NIME.*
+
+Baytaş, M. A., Yemez, Y., Özcan, O. (2014) **[Hotspotizer: end-user authoring of mid-air gestural interactions](http://dl.acm.org/citation.cfm?id=2639255)**. *Proc. NordiCHI.*
+
+### miscellaneous
 
 Baytaş, M.A. (2014) **[End-User Authoring of Mid-Air Gestural Interactions](https://github.com/mbaytas/ma-thesis/releases)**. (MA thesis submitted to the Koç University Graduate School of Social Sciences and Humanities)
 
-Baytaş, M. A., Yemez, Y., Özcan, O. (2014) **[User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation](http://ceur-ws.org/Vol-1190/paper2.pdf)**. *Proc. EGMI 2014.*
+Baytaş, M. A., Yemez, Y., Özcan, O. (2014) **[User Interface Paradigms for Visually Authoring Mid-Air Gestures: A Survey and a Provocation](http://ceur-ws.org/Vol-1190/paper2.pdf)**. *Proc. EGMI.*
 
 Özcan, O., Ünlüer, A., Baytaş, M.A., Serim, B. (2012) **[Rethinking Spherical Media Surfaces by Re-reading Ancient Greek Vases](http://displayworkshop.media.mit.edu/ITS2012/downloads/paper-Ozcan.pdf)**. Paper presented at the *ITS '12* workshop *Beyond Flat Displays: Towards Shaped and Deformable Interactive Surfaces*.
 
