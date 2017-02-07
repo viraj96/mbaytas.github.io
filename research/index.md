@@ -7,11 +7,17 @@ title: research
 
 ## interests
 
-human-computer interaction, interaction design
+### current
 
-computer vision, motion capture, machine learning, gestural interaction, sound in user interfaces
+human-computer interaction; interaction design
 
-Currently I am particularly interested in experimenting with deep learning on motion capture and other time series data for enabling novel user interfaces. I welcome opportunities to learn about and collaborate on this topic.
+motion capture; gestural interaction; gestures   and linguistics; research tools; machine learning; sound design for user interfaces; multi-platform software development support
+
+*Currently I am particularly interested in experimenting with deep learning on motion capture and other time series data for enabling novel user interfaces. I welcome opportunities to learn about and collaborate on this topic.*
+
+### past
+
+end-user software development; visual programming; gestural user interface design; gesture authoring; user interface prototyping processes and tools; tangible user interfaces; user interfaces for electronic music performance and production; spectator experience in live electronic music
 
 ## projects
 
