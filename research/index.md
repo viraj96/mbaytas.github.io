@@ -152,9 +152,13 @@ TÜBİTAK 1001 (2012-2014): “Specifications on a Design Education Methodology 
 
 ### as researcher
 
+H2020-MSCA-ITN-2015 (2016-2020): ‘DComm:DeicticCommunication-AMultidisciplinaryTraining’(Grant #676063)
+
 KoçSistem (2012-2013): "Monitoring & Control Center Touchless Gesture 3D Interactive HMI” (&#8378;110.000)
 
 ## awards and scholarships
+
+Marie Skłodowska-Curie ‘Early Stage Researcher’ Fellowship (2017-2020)
 
 Koç University GSSSH (Graduate School of Social Sciences and Humanities) Fellowship (2014&ndash;2018)
 
