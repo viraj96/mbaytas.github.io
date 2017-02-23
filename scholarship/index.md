@@ -26,6 +26,7 @@ title: scholarship
 - *[Interaction Design](http://www.id-book.com/)* by Preece, Sharp & Rogers
 - *The Human Computer Interaction Handbook* by Jacko (ed.)
 - *The Design of Everyday Things* by Norman
+- *Sketching User Experiences* by Buxton
 
 ### engineering resources
 
