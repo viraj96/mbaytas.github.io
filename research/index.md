@@ -146,19 +146,19 @@ Arçelik A.Ş. (2015-2018): "KUAR: Koç University &ndash; Arçelik Research Cen
 
 ### as researcher with administrative responsibilities
 
-FP7-PEOPLE-2012-IAPP (2013-2014): “NaMoCap: Natural Motion Capture Process for Creative Industries” (Grant #324333, &euro;658.000)
+FP7-PEOPLE-2012-IAPP (2013-2014): "NaMoCap: Natural Motion Capture Process for Creative Industries" (Grant #324333, &euro;658.000)
 
-TÜBİTAK 1001 (2012-2014): “Specifications on a Design Education Methodology for Gestural Interface Design" (Grant #112E056, &#8378;188.000)
+TÜBİTAK 1001 (2012-2014): "Specifications on a Design Education Methodology for Gestural Interface Design" (Grant #112E056, &#8378;188.000)
 
 ### as researcher
 
-H2020-MSCA-ITN-2015 (2016-2020): ‘DComm:DeicticCommunication-AMultidisciplinaryTraining’(Grant #676063)
+H2020-MSCA-ITN-2015 (2016-2020): "DComm: Deictic Communication &ndash; A Multidisciplinary Training" (Grant #676063)
 
-KoçSistem (2012-2013): "Monitoring & Control Center Touchless Gesture 3D Interactive HMI” (&#8378;110.000)
+KoçSistem (2012-2013): "Interative Monitoring & Control Center with Touchless 3D Gestures" (&#8378;110.000)
 
 ## awards and scholarships
 
-Marie Skłodowska-Curie ‘Early Stage Researcher’ Fellowship (2017-2020)
+Marie Skłodowska-Curie "Early Stage Researcher" Fellowship (2017-2020)
 
 Koç University GSSSH (Graduate School of Social Sciences and Humanities) Fellowship (2014&ndash;2018)
 
