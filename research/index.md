@@ -11,7 +11,7 @@ title: research
 
 human-computer interaction; interaction design
 
-motion capture; gestural interaction; gestures and linguistics; motion capture applications for psychology and linguistics research; sound design for user interfaces; multi-platform software development
+motion capture; gestural user interfaces; motion capture for the study of sign languages and co-speech gestures; sound design for user interfaces
 
 *Currently I am particularly interested in experimenting with deep learning on motion capture and other time series data for enabling novel user interfaces. I welcome opportunities to learn about and collaborate on this topic.*
 
