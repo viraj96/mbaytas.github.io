@@ -11,9 +11,7 @@ title: research
 
 human-computer interaction; interaction design
 
-motion capture; gestural user interfaces; motion capture for the study of sign languages and co-speech gestures; sound design for user interfaces
-
-*Currently I am particularly interested in experimenting with deep learning on motion capture and other time series data for enabling novel user interfaces. I welcome opportunities to learn about and collaborate on this topic.*
+motion capture; gestural user interfaces; motion capture for sign and gesture studies; sound design for user interfaces
 
 ### past
 
@@ -120,11 +118,9 @@ We designed and built a versatile experimental laser manufacturing workstation w
 
 ## publications
 
-### journal articles
+### peer-reviewed journal and conference papers
 
-Ünlüer, A.A., Baytaş, M.A., Buruk, O.T., Yemez, Y., Cemalcılar, Z., Özcan, O. (forthcoming) **The effectiveness of mime-based creative drama education for exploring gesture-based user interfaces**. *The International Journal of Art & Design Education*.
-
-### conference papers
+Ünlüer, A.A., Baytaş, M.A., Buruk, O.T., Yemez, Y., Cemalcılar, Z., Özcan, O. (2017) **[The effectiveness of mime-based creative drama education for exploring gesture-based user interfaces](http://dx.doi.org/10.1111/jade.12136)**. *The International Journal of Art & Design Education*.
 
 Baytaş, M.A., Göksun, T., Özcan, O. (2016) **[The Perception of Live-sequenced Electronic Music via Hearing and Sight](http://www.nime.org/proceedings/2016/nime2016_paper0040.pdf)**. *Proc. NIME.*
 
