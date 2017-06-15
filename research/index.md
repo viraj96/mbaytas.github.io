@@ -120,13 +120,15 @@ We designed and built a versatile experimental laser manufacturing workstation w
 
 ### peer-reviewed journal and conference papers
 
-Ünlüer, A.A., Baytaş, M.A., Buruk, O.T., Yemez, Y., Cemalcılar, Z., Özcan, O. (2017) **[The effectiveness of mime-based creative drama education for exploring gesture-based user interfaces](http://dx.doi.org/10.1111/jade.12136)**. *The International Journal of Art & Design Education*.
+Ünlüer, A. A., Baytaş, M. A., Buruk, O. T., Cemalcilar, Z., Yemez, Y., & Özcan, O. (2017). **[The Effectiveness of Mime‐Based Creative Drama Education for Exploring Gesture‐Based User Interfaces](http://dx.doi.org/10.1111/jade.12136)**. *International Journal of Art & Design Education*.
 
 Baytaş, M.A., Göksun, T., Özcan, O. (2016) **[The Perception of Live-sequenced Electronic Music via Hearing and Sight](http://www.nime.org/proceedings/2016/nime2016_paper0040.pdf)**. *Proc. NIME.*
 
 Baytaş, M. A., Yemez, Y., Özcan, O. (2014) **[Hotspotizer: end-user authoring of mid-air gestural interactions](http://dl.acm.org/citation.cfm?id=2639255)**. *Proc. NordiCHI.*
 
 ### miscellaneous
+
+Baytaş, M. A., Çay, D., Yantaç, A. E., Fjeld, M. (2017) **Motion Capture in Gesture and Sign Language Research**. Poster presented at the *DComm* conference *Language as a Form of Action*. (forthcoming)
 
 Baytaş, M.A. (2014) **[End-User Authoring of Mid-Air Gestural Interactions](https://github.com/mbaytas/ma-thesis/releases)**. (MA thesis submitted to the Koç University Graduate School of Social Sciences and Humanities)
 
