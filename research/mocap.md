@@ -17,11 +17,15 @@ A secondary objective in the project is to create knowledge that can be exploite
 
 <div class="row">
   <div class="col-md-6">
-    Preliminary results from a literature review that we conducted to situate our work within existing research have been presented as a poster at the [DComm](http://www.dcomm.eu/) conference [Language as a Form of Action](http://www.dcomm.eu/events/conference-rome-june-2017/).
-    <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Download PDF]({{ site.baseurl }}/research/img/2017-mocap-poster.pdf)\
+    <p>
+      Preliminary results from a literature review that we conducted to situate our work within existing research have been presented as a poster at the <a href="http://www.dcomm.eu/">DComm</a> conference <a href="http://www.dcomm.eu/events/conference-rome-june-2017/">Language as a Form of Action</a>.
+    </p>
+    <p>
+      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Download PDF]({{ site.baseurl }}/research/img/2017-mocap-poster.pdf)\
+    </p>
   </div>
   <div class="col-md-6">
-    ![Poster: Motion Capture in Gesture and Sign Language Research]({{ site.baseurl }}/research/img/2017-mocap-poster.png){: .img-responsive .center-block}
+    <img src="{{ site.baseurl }}/research/img/2017-mocap-poster.png" class="img-responsive" alt="Poster: Motion Capture in Gesture and Sign Language Research">
   </div>
 </div>
 
