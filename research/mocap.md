@@ -18,7 +18,7 @@ A secondary objective in the project is to create knowledge that can be exploite
 <div class="row">
   <div class="col-md-8">
     <p>
-      Preliminary results from a literature review that we conducted to situate our work within existing research have been presented as a poster at the <a href="http://www.dcomm.eu/">DComm</a> conference <a href="http://www.dcomm.eu/events/conference-rome-june-2017/">Language as a Form of Action</a>.
+      To introduce a wider audience of researchers to this field of inquiry, and to situate our work within existing research, we conducted a review of previous works that utilized motion capture to study sign and gesture production. We presented the preliminary results from our review, along with comments on technical and methodological issues, as a poster at the <a href="http://www.dcomm.eu/">DComm</a> conference <a href="http://www.dcomm.eu/events/conference-rome-june-2017/">Language as a Form of Action</a>.
     </p>
     <p>
       <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="{{ site.baseurl }}/research/img/2017-mocap-poster.pdf">Download PDF</a>
