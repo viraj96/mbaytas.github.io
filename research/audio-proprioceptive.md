@@ -3,7 +3,7 @@ layout: default
 title: audio-proprioceptive user interfaces
 ---
 
-# audio-proprioceptive user interfaces <small>(work in progress)</small>
+# audio-proprioceptive user interfaces <small>(in progress)</small>
 
 ![audio-proprioceptive UIs]({{ site.baseurl }}/research/img/audioprop-temp.jpg){: .img-responsive .center-block}
 
