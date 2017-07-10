@@ -29,11 +29,11 @@ end-user software development; visual programming; gestural user interface desig
   <div class="media-body">
     <a href="/research/mocap/">
       <h4 class="media-heading">
-        understanding interpersonal communication through motion capture
+        designing motion capture solutions for gesture and sign language research
       </h4>  
     </a>
     <p>
-The goal of this project is to study and propose novel motion tracking technologies to efficiently perceive human gesture, initially focusing on supporting research in linguistics and deictic communication. This involves exploring solutions to specific issues that researchers encounter. Beyond addressing the needs of linguistics researchers, knowledge created through user-centered design processes will inform HCI artifacts for home and work contexts.
+The goal of this project is to design novel motion tracking solutions to support research on sign languages and co-speech gestures. In gesture and sign language research, motion capture enables precise, quantitative, and statistical inquiry; but presents issues such as the high cost and expertise barriers to entry, trade-offs between convenience and accuracy, and the need for convenient tools for exploring and analyzing multimodal data. Due to these issues, such quantitative inquiry in sign and gesture research is difficult, comparatively scarce, and often is based on less data than ideal.We aim to address related issues from an interaction design perspective in close collaboration with sign and gesture researchers, and to produce artifacts which contribute to the field in a scalable manner.
     </p>
   </div>
 </div>
