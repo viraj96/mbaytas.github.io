@@ -16,15 +16,15 @@ A secondary objective in the project is to create knowledge that can be exploite
 ## poster: Motion Capture in Gesture and Sign Language Research
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-8">
     <p>
       Preliminary results from a literature review that we conducted to situate our work within existing research have been presented as a poster at the <a href="http://www.dcomm.eu/">DComm</a> conference <a href="http://www.dcomm.eu/events/conference-rome-june-2017/">Language as a Form of Action</a>.
     </p>
     <p>
-      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Download PDF]({{ site.baseurl }}/research/img/2017-mocap-poster.pdf)\
+      <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="{{ site.baseurl }}/research/img/2017-mocap-poster.pdf">Download PDF</a>
     </p>
   </div>
-  <div class="col-md-6">
+  <div class="col-md-4">
     <img src="{{ site.baseurl }}/research/img/2017-mocap-poster.png" class="img-responsive" alt="Poster: Motion Capture in Gesture and Sign Language Research">
   </div>
 </div>
