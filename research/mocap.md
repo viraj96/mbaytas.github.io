@@ -13,6 +13,10 @@ A secondary objective in the project is to create knowledge that can be exploite
 
 <small>This effort is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 676063.</small>
 
-# poster: Motion Capture in Gesture and Sign Language Research
+## poster: Motion Capture in Gesture and Sign Language Research
 
 Preliminary results from a literature review that we conducted to situate our work within existing research have been presented as a poster at the [DComm](http://www.dcomm.eu/) conference [Language as a Form of Action](http://www.dcomm.eu/events/conference-rome-june-2017/).
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Download PDF]({{ site.baseurl }}/research/img/2017-mocap-poster.pdf)
+
+![Poster: Motion Capture in Gesture and Sign Language Research]({{ site.baseurl }}/research/img/2017-mocap-poster.png){: .img-responsive .center-block}
