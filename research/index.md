@@ -128,7 +128,7 @@ Baytaş, M. A., Yemez, Y., & Özcan, O. (2014) **[Hotspotizer: end-user authorin
 
 ### miscellaneous
 
-Baytaş, M. A., Çay, D., Yantaç, A. E., & Fjeld, M. (2017) **Motion Capture in Gesture and Sign Language Research**. Poster presented at the *DComm* conference *Language as a Form of Action*.
+Baytaş, M. A., Çay, D., Yantaç, A. E., & Fjeld, M. (2017) **[Motion Capture in Gesture and Sign Language Research]({{ site.baseurl }}/research/img/2017-mocap-poster.pdf)**. Poster presented at the *DComm* conference *Language as a Form of Action*.
 
 Baytaş, M.A. (2014) **[End-User Authoring of Mid-Air Gestural Interactions](https://github.com/mbaytas/ma-thesis/releases)**. (MA thesis submitted to the Koç University Graduate School of Social Sciences and Humanities)
 
