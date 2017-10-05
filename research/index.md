@@ -19,6 +19,23 @@ end-user software development; visual programming; gestural user interface desig
 
 ## projects
 
+<div class="media">
+  <div class="media-left">
+    <a href="/research/labdesignar/">
+      <img class="media-object" src="img/labdesignar.png" alt="LabDesignAR" style="width: 8em;">
+    </a>
+  </div>
+  <div class="media-body">
+    <a href="/research/mocap/">
+      <h4 class="media-heading">
+        LabDesignAR
+      </h4>  
+    </a>
+    <p>
+LabDesignAR is an augmented reality application to support the planning, setup, and reconfiguration of marker-based motion capture systems with multiple cameras. It runs on the Microsoft HoloLens and allows the user to place an arbitrary number of virtual "holographic" motion capture cameras into an arbitrary space, in situ. The holographic cameras can be arbitrarily positioned, and different lens configurations can be selected to visualize the resulting fields of view and their intersections. LabDesignAR also demonstrates a hybrid natural gestural interaction technique, implemented through a fusion of the vision-based hand tracking capabilities of an augmented reality headset and instrumented gesture recognition with an electromyography armband. The code for LabDesignAR and its supporting components are open-sourced.
+    </p>
+  </div>
+</div>
 
 <div class="media">
   <div class="media-left">
@@ -84,7 +101,7 @@ As a prelude to an interaction design project for loop-based, live-sequenced ele
     <a href="/research/hotspotizer/">
       <h4 class="media-heading">Hotspotizer</h4>
     </a>
-Hotspotizer allows users without computer programming skills to design, visualize, save and recall sets of custom full-body gestures for the Kinect sensor. These gestures are mapped to system-wide keyboard commands which can be used to control any application. Hotspotizer is centered around a novel, easy-to-use graphical interface based on cubic voxels. It is built as an end-to-end, standalone Windows app intended for lay users. A working release of the application and the source code are on GitHub.
+Hotspotizer allows users without computer programming skills to design, visualize, save and recall sets of custom full-body gestures for the Kinect sensor. These gestures are mapped to system-wide keyboard commands which can be used to control any application. Hotspotizer is centered around a novel, easy-to-use graphical interface based on cubic voxels. It is built as an end-to-end, standalone Windows app intended for lay users. A working release of the application and the source code can be found on GitHub.
   </div>
 </div>
 
