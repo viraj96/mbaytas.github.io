@@ -197,7 +197,80 @@ $ = Sigma′(z^l) (w^(l+1))^T delta^(l+1) $
 
 ...
 
-### exercise: proofs
+### problem: Prove BP3 and BP4
+
+#### (1)
+
+$ delta_j^l = (del C) / (del b_j^l) $
+
+We know,
+
+$ delta_j^l = (del C) / (del z_j^l) $
+
+We also know that,
+
+$ z_j^l = sum_k w_{jk}^l a_j^(l-1) + b_j^l $
+
+Now, 
+
+$ = (del C) / (del z_j^l) (del b_j^l) / (del b_j^l) $
+
+$ = (del C) / (del b_j^l) (del b_j^l) / (del z_j^l) $
+
+Now we need,
+
+$ (del z_j^l) / (del b_j^l) $
+
+$ = (del (sum_k w_{jk}^l a_j^(l-1) + b_j^l)) / (del b_j^l) $
+
+$ = 1 $
+
+Therefore,
+
+$ (del C) / (del b_j^l) (del b_j^l) / (del z_j^l) $
+
+$ = (del C) / (del b_j^l) * 1 $
+
+Hence,
+
+$ delta_j^l = (del C) / (del b_j^l) $
+
+#### (2)
+
+$ a_j^(l-1) delta_j^l = (del C) / (del w_{jk}^l) $
+
+We know,
+
+$ delta_j^l = (del C) / (del z_j^l) $
+
+We also know that,
+
+$ z_j^l = sum_k w_{jk}^l a_j^(l-1) + b_j^l $
+
+Now, 
+
+$ = (del C) / (del z_j^l) (del w_{jk}^l) / (del w_{jk}^l) $
+
+$ = (del C) / (del w_{jk}^l) (del w_{jk}^l) / (del z_j^l) $
+
+Now we need,
+
+$ (del z_j^l) / (del w_{jk}^l) $
+
+$ = (del (sum_k w_{jk}^l a_j^(l-1) + b_j^l)) / (del b_j^l) $
+
+$ = a_j^(l-1) $
+
+Therefore,
+
+$ (del C) / (del w_{jk}^l) (del w_{jk}^l) / (del z_j^l) $
+
+$ = (del C) / (del w_{jk}^l) * a_j^(l-1) $
+
+Hence,
+
+$ a_j^(l-1) delta_j^l = (del C) / (del b_j^l) $
+
 
 ### exercise: Backpropagation with a single modified neuron
 
