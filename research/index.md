@@ -169,7 +169,7 @@ TÜBİTAK 1001 (2012-2014): "Specifications on a Design Education Methodology fo
 
 ### as researcher
 
-H2020-MSCA-ITN-2015 (2016-2020): "DComm: Deictic Communication &ndash; A Multidisciplinary Training" (Grant #676063)
+H2020-MSCA-ITN-2015 (2016-2020): "DComm: Deictic Communication &ndash; A Multidisciplinary Training" (Grant #676063, &euro;3.460.823)
 
 KoçSistem (2012-2013): "Interative Monitoring & Control Center with Touchless 3D Gestures" (&#8378;110.000)
 
